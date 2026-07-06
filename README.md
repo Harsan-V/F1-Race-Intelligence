@@ -216,24 +216,20 @@ This module uses Groq LLM integration to generate structured race summaries and 
 This module uses SHAP to explain machine learning model predictions and show how individual features influence model output.
 
 ## Outputs
+The F1 dashboard :
+<img width="1470" height="956" alt="Screenshot 2026-07-06 at 11 50 59 AM" src="https://github.com/user-attachments/assets/8a5d66d7-c7fb-4e57-9b8f-538d9e4d23c9" />
 
-Depending on the module, outputs may include:
+<img width="1470" height="956" alt="Screenshot 2026-07-06 at 11 51 07 AM" src="https://github.com/user-attachments/assets/b391e343-9975-4e3d-8569-77da5eae97fd" />
 
-- Trained model files
-- Prediction CSV files
-- Evaluation metrics
-- Pit stop strategy recommendations
-- Tire degradation trend estimates
-- Chatbot vector database files
-- Race summary text
-- SHAP explainability plots
+<img width="1470" height="956" alt="Screenshot 2026-07-06 at 11 51 15 AM" src="https://github.com/user-attachments/assets/9193e308-dbac-4b5e-9a1c-0a2fd29908e3" />
 
-## Security Notes
+<img width="1470" height="956" alt="Screenshot 2026-07-06 at 11 51 24 AM" src="https://github.com/user-attachments/assets/34b86781-fbba-4ff8-a0a0-320c74a0c6d2" />
 
-- Never commit `.env` files.
-- Never commit real API keys in notebooks, README files, or example files.
-- Use placeholders such as `your_groq_api_key_here` in documentation.
-- If an API key is accidentally committed or detected by GitHub push protection, rotate the key immediately.
+<img width="1470" height="956" alt="Screenshot 2026-07-06 at 11 51 30 AM" src="https://github.com/user-attachments/assets/75ddf18d-1472-40a8-b46c-0f284cefa6b4" />
+
+<img width="1470" height="956" alt="Screenshot 2026-07-06 at 11 51 35 AM" src="https://github.com/user-attachments/assets/527d12c3-c9f3-4db9-9115-b65c3ff29ffb" />
+
+<img width="1470" height="956" alt="Screenshot 2026-07-06 at 11 52 32 AM" src="https://github.com/user-attachments/assets/ba504294-6060-43b2-9aa4-1aa95b914554" />
 
 ## Future Improvements
 
@@ -245,11 +241,6 @@ Depending on the module, outputs may include:
 - Improve chatbot document retrieval quality.
 - Add tests for backend endpoints and model utility functions.
 
-## Author
-
-**Santhosh Kumar V**
-
-GitHub: [Harsan-V](https://github.com/Harsan-V)
 
 ## License
 
