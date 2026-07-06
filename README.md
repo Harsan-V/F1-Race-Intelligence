@@ -236,7 +236,6 @@ The F1 dashboard :
 - Add a Streamlit or React dashboard for visual interaction.
 - Improve model accuracy with more seasons and richer race features.
 - Add live race/session data integration.
-- Deploy the FastAPI backend.
 - Add automated model evaluation reports.
 - Improve chatbot document retrieval quality.
 - Add tests for backend endpoints and model utility functions.
