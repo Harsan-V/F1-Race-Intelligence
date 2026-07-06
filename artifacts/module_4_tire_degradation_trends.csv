@@ -1,0 +1,9 @@
+event_name,event_degradation_sec_per_lap,degradation_sample_sessions,median_baseline_lap_seconds
+Australian Grand Prix,0.29124975024975247,215,80.98659999999998
+Azerbaijan Grand Prix,0.015,42,106.22793008440834
+Bahrain Grand Prix,0.2654960732984287,165,96.16905128205127
+Chinese Grand Prix,0.12604527227524648,92,97.81437256218608
+Emilia Romagna Grand Prix,0.015,67,82.69664614361706
+Japanese Grand Prix,0.23139062499999796,67,91.73977611940305
+Miami Grand Prix,0.01737464522232557,157,92.57572348178138
+Saudi Arabian Grand Prix,0.336760869565218,195,91.54496666666665

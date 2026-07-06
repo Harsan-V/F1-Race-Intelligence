@@ -1,0 +1,21 @@
+season,driver,team,total_points,avg_grid_position,podiums,estimated_overtakes,performance_score,driver_class,predicted_class
+2025,PIA,McLaren,92.0,1.8,4,1.0,0.9037037037037036,Elite,Elite
+2025,NOR,McLaren,88.0,4.4,4,10.0,0.8827979066022544,Elite,Elite
+2025,VER,Red Bull,81.0,3.2,3,2.0,0.7801247987117553,Elite,Elite
+2025,RUS,Mercedes,68.0,3.4,3,2.0,0.7069726247987118,Elite,Elite
+2025,LEC,Ferrari,43.0,4.6,1,1.0,0.4523993558776168,Strong,Strong
+2025,ANT,Mercedes,36.0,8.0,0,14.0,0.3700040257648954,Strong,Strong
+2025,HAM,Ferrari,23.0,7.4,0,5.0,0.2735185185185185,Strong,Strong
+2025,ALB,Williams,20.0,10.2,0,9.0,0.23702898550724638,Strong,Strong
+2025,OCO,Haas F1 Team,14.0,16.2,0,23.0,0.18127214170692435,Strong,Average
+2025,BEA,Haas F1 Team,6.0,16.4,0,27.0,0.15010869565217394,Strong,Average
+2025,HAD,RB F1 Team,5.0,10.2,0,4.0,0.1369887278582931,Average,Average
+2025,SAI,Williams,5.0,10.8,0,6.0,0.1368961352657005,Average,Average
+2025,GAS,Alpine F1 Team,6.0,9.8,0,0.0,0.13260869565217392,Average,Average
+2025,TSU,Red Bull,2.0,9.2,0,3.0,0.12948067632850244,Average,Average
+2025,STR,Aston Martin,10.0,16.4,0,14.0,0.1236996779388084,Average,Average
+2025,HUL,Sauber,6.0,15.8,0,13.0,0.10575684380032206,Average,Average
+2025,ALO,Aston Martin,0.0,12.6,0,3.0,0.07611111111111113,Weak,Weak
+2025,LAW,RB F1 Team,0.0,16.0,0,12.0,0.06694444444444446,Weak,Weak
+2025,DOO,Alpine F1 Team,0.0,15.8,0,9.0,0.058333333333333334,Weak,Weak
+2025,BOR,Sauber,0.0,17.8,0,7.0,0.025925925925925925,Weak,Weak

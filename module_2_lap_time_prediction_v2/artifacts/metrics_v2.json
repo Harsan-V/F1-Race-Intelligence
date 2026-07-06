@@ -1,0 +1,62 @@
+{
+  "version": "standalone_v2",
+  "created_at_utc": "2026-06-25T19:32:31.955547+00:00",
+  "best_model": "gradient_boosting_delta",
+  "selection_metric": "rmse_seconds",
+  "test_season": 2025,
+  "train_rows": 10443,
+  "test_rows": 2673,
+  "features": [
+    "event_name",
+    "circuit",
+    "country",
+    "session_name",
+    "session_type",
+    "driver",
+    "team",
+    "track_status",
+    "season",
+    "lap_number",
+    "session_elapsed_seconds",
+    "driver_session_lap_index",
+    "previous_lap_seconds",
+    "rolling_3_lap_median",
+    "previous_speed_i1",
+    "previous_speed_i2",
+    "previous_speed_finish_line",
+    "previous_speed_trap"
+  ],
+  "target": "lap_time_seconds",
+  "results": {
+    "gradient_boosting_delta": {
+      "mae_seconds": 2.094,
+      "rmse_seconds": 3.7007,
+      "r2": 0.7442
+    },
+    "extra_trees": {
+      "mae_seconds": 3.664,
+      "rmse_seconds": 5.9762,
+      "r2": 0.333
+    },
+    "random_forest": {
+      "mae_seconds": 2.8935,
+      "rmse_seconds": 4.8244,
+      "r2": 0.5653
+    },
+    "xgboost_delta": {
+      "mae_seconds": 2.6108,
+      "rmse_seconds": 4.6623,
+      "r2": 0.5941
+    },
+    "lightgbm_delta": {
+      "mae_seconds": 2.8125,
+      "rmse_seconds": 4.7273,
+      "r2": 0.5827
+    },
+    "previous_lap_baseline": {
+      "mae_seconds": 1.5746,
+      "rmse_seconds": 4.1217,
+      "r2": 0.6827
+    }
+  }
+}

@@ -1,0 +1,801 @@
+season,round,event_date,event_name,country,location,event_format,driver,driver_number,team,grid_position,finish_position,points,status,winner,podium
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,VET,5,Ferrari,3.0,1.0,25.0,Finished,1,1
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,HAM,44,Mercedes,1.0,2.0,18.0,Finished,0,1
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,RAI,7,Ferrari,2.0,3.0,15.0,Finished,0,1
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,RIC,3,Red Bull,8.0,4.0,12.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,ALO,14,McLaren,10.0,5.0,10.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,VER,3,Red Bull,4.0,6.0,8.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,HUL,27,Renault,7.0,7.0,6.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,BOT,77,Mercedes,15.0,8.0,4.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,VAN,2,McLaren,11.0,9.0,2.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,SAI,55,Renault,9.0,10.0,1.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,PER,11,Force India,12.0,11.0,0.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,OCO,31,Force India,14.0,12.0,0.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,LEC,16,Sauber,18.0,13.0,0.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,STR,18,Williams,13.0,14.0,0.0,Finished,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,HAR,28,Toro Rosso,16.0,15.0,0.0,+1 Lap,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,GRO,8,Haas F1 Team,6.0,16.0,0.0,Wheel,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,MAG,20,Haas F1 Team,5.0,17.0,0.0,Wheel,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,GAS,10,Toro Rosso,20.0,18.0,0.0,Engine,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,ERI,9,Sauber,17.0,19.0,0.0,Steering,0,0
+2018,1,2018-03-25,Australian Grand Prix,Australia,Melbourne,conventional,SIR,35,Williams,19.0,20.0,0.0,Brakes,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VET,5,Ferrari,1.0,1.0,25.0,Finished,1,1
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,BOT,77,Mercedes,3.0,2.0,18.0,Finished,0,1
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAM,44,Mercedes,9.0,3.0,15.0,Finished,0,1
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GAS,10,Toro Rosso,5.0,4.0,12.0,Finished,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,MAG,20,Haas F1 Team,6.0,5.0,10.0,Finished,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HUL,27,Renault,7.0,6.0,8.0,Finished,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALO,14,McLaren,13.0,7.0,6.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VAN,2,McLaren,14.0,8.0,4.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ERI,9,Sauber,17.0,9.0,2.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,OCO,31,Force India,8.0,10.0,1.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAI,55,Renault,10.0,11.0,0.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LEC,16,Sauber,19.0,12.0,0.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GRO,8,Haas F1 Team,16.0,13.0,0.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,STR,18,Williams,20.0,14.0,0.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SIR,35,Williams,18.0,15.0,0.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PER,11,Force India,12.0,16.0,0.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAR,28,Toro Rosso,11.0,17.0,0.0,+1 Lap,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RAI,7,Ferrari,2.0,18.0,0.0,Wheel,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VER,3,Red Bull,15.0,19.0,0.0,Puncture,0,0
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RIC,3,Red Bull,4.0,20.0,0.0,Electrical,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,RIC,3,Red Bull,6.0,1.0,25.0,Finished,1,1
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,BOT,77,Mercedes,3.0,2.0,18.0,Finished,0,1
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,RAI,7,Ferrari,2.0,3.0,15.0,Finished,0,1
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,HAM,44,Mercedes,4.0,4.0,12.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,VER,3,Red Bull,5.0,5.0,10.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,HUL,27,Renault,7.0,6.0,8.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,ALO,14,McLaren,13.0,7.0,6.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,VET,5,Ferrari,1.0,8.0,4.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,SAI,55,Renault,9.0,9.0,2.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,MAG,20,Haas F1 Team,11.0,10.0,1.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,OCO,31,Force India,12.0,11.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,PER,11,Force India,8.0,12.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,VAN,2,McLaren,14.0,13.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,STR,18,Williams,18.0,14.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,SIR,35,Williams,16.0,15.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,ERI,9,Sauber,20.0,16.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,GRO,8,Haas F1 Team,10.0,17.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,GAS,10,Toro Rosso,17.0,18.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,LEC,16,Sauber,19.0,19.0,0.0,Finished,0,0
+2018,3,2018-04-15,Chinese Grand Prix,China,Shanghai,conventional,HAR,28,Toro Rosso,15.0,20.0,0.0,Collision damage,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,HAM,44,Mercedes,2.0,1.0,25.0,Finished,1,1
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,RAI,7,Ferrari,6.0,2.0,18.0,Finished,0,1
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,PER,11,Force India,8.0,3.0,15.0,Finished,0,1
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,VET,5,Ferrari,1.0,4.0,12.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,SAI,55,Renault,9.0,5.0,10.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,LEC,16,Sauber,13.0,6.0,8.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,ALO,14,McLaren,12.0,7.0,6.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,STR,18,Williams,10.0,8.0,4.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,VAN,2,McLaren,16.0,9.0,2.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,HAR,28,Toro Rosso,19.0,10.0,1.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,ERI,9,Sauber,18.0,11.0,0.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,GAS,10,Toro Rosso,17.0,12.0,0.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,MAG,20,Haas F1 Team,15.0,13.0,0.0,Finished,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,BOT,77,Mercedes,3.0,14.0,0.0,Puncture,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,GRO,8,Haas F1 Team,20.0,15.0,0.0,Accident,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,VER,3,Red Bull,5.0,16.0,0.0,Collision,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,RIC,3,Red Bull,4.0,17.0,0.0,Collision,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,HUL,27,Renault,14.0,18.0,0.0,Accident,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,OCO,31,Force India,7.0,19.0,0.0,Collision,0,0
+2018,4,2018-04-29,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,SIR,35,Williams,11.0,20.0,0.0,Collision,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,HAM,44,Mercedes,1.0,1.0,25.0,Finished,1,1
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,BOT,77,Mercedes,2.0,2.0,18.0,Finished,0,1
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,VER,3,Red Bull,5.0,3.0,15.0,Finished,0,1
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,VET,5,Ferrari,3.0,4.0,12.0,Finished,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,RIC,3,Red Bull,6.0,5.0,10.0,Finished,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,MAG,20,Haas F1 Team,7.0,6.0,8.0,+1 Lap,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,SAI,55,Renault,9.0,7.0,6.0,+1 Lap,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,ALO,14,McLaren,8.0,8.0,4.0,+1 Lap,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,PER,11,Force India,15.0,9.0,2.0,+2 Laps,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,LEC,16,Sauber,14.0,10.0,1.0,+2 Laps,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,STR,18,Williams,18.0,11.0,0.0,+2 Laps,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,HAR,28,Toro Rosso,20.0,12.0,0.0,+2 Laps,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,ERI,9,Sauber,17.0,13.0,0.0,+2 Laps,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,SIR,35,Williams,19.0,14.0,0.0,+3 Laps,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,VAN,2,McLaren,11.0,15.0,0.0,Gearbox,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,OCO,31,Force India,13.0,16.0,0.0,Oil leak,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,RAI,7,Ferrari,4.0,17.0,0.0,Turbo,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,GRO,8,Haas F1 Team,10.0,18.0,0.0,Collision,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,GAS,10,Toro Rosso,12.0,19.0,0.0,Collision,0,0
+2018,5,2018-05-13,Spanish Grand Prix,Spain,Barcelona,conventional,HUL,27,Renault,16.0,20.0,0.0,Collision,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,BOT,77,Mercedes,2.0,1.0,26.0,Finished,1,1
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,HAM,44,Mercedes,1.0,2.0,18.0,Finished,0,1
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,VER,3,Red Bull,4.0,3.0,15.0,Finished,0,1
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,VET,5,Ferrari,3.0,4.0,12.0,Finished,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,LEC,16,Ferrari,5.0,5.0,10.0,Finished,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,MAG,20,Haas F1 Team,7.0,6.0,8.0,Finished,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,HUL,27,Renault,11.0,7.0,6.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,RAI,7,Alfa Romeo,9.0,8.0,4.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,STR,18,Racing Point,16.0,9.0,2.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,KVY,26,Toro Rosso,15.0,10.0,1.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,GAS,10,Red Bull,17.0,11.0,0.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,NOR,1,McLaren,8.0,12.0,0.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,PER,11,Racing Point,10.0,13.0,0.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,ALB,23,Toro Rosso,13.0,14.0,0.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,GIO,99,Alfa Romeo,14.0,15.0,0.0,+1 Lap,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,RUS,63,Williams,19.0,16.0,0.0,+2 Laps,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,KUB,88,Williams,20.0,17.0,0.0,+3 Laps,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,GRO,8,Haas F1 Team,6.0,18.0,0.0,Wheel,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,RIC,3,Renault,12.0,19.0,0.0,Damage,0,0
+2019,1,2019-03-17,Australian Grand Prix,Australia,Melbourne,conventional,SAI,55,McLaren,18.0,20.0,0.0,Engine,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAM,44,Mercedes,3.0,1.0,25.0,Finished,1,1
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,BOT,77,Mercedes,4.0,2.0,18.0,Finished,0,1
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LEC,16,Ferrari,1.0,3.0,16.0,Finished,0,1
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VER,3,Red Bull,5.0,4.0,12.0,Finished,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VET,5,Ferrari,2.0,5.0,10.0,Finished,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,NOR,1,McLaren,9.0,6.0,8.0,Finished,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RAI,7,Alfa Romeo,8.0,7.0,6.0,Finished,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GAS,10,Red Bull,13.0,8.0,4.0,Finished,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALB,23,Toro Rosso,12.0,9.0,2.0,Finished,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PER,11,Racing Point,14.0,10.0,1.0,Finished,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GIO,99,Alfa Romeo,16.0,11.0,0.0,Finished,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,KVY,26,Toro Rosso,15.0,12.0,0.0,+1 Lap,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,MAG,20,Haas F1 Team,6.0,13.0,0.0,+1 Lap,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,STR,18,Racing Point,18.0,14.0,0.0,+1 Lap,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RUS,63,Williams,19.0,15.0,0.0,+1 Lap,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,KUB,88,Williams,20.0,16.0,0.0,+2 Laps,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HUL,27,Renault,17.0,17.0,0.0,Engine,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RIC,3,Renault,10.0,18.0,0.0,Out of fuel,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAI,55,McLaren,7.0,19.0,0.0,Collision damage,0,0
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GRO,8,Haas F1 Team,11.0,20.0,0.0,Retired,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,HAM,44,Mercedes,2.0,1.0,25.0,Finished,1,1
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,BOT,77,Mercedes,1.0,2.0,18.0,Finished,0,1
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,VET,5,Ferrari,3.0,3.0,15.0,Finished,0,1
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,VER,3,Red Bull,5.0,4.0,12.0,Finished,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,LEC,16,Ferrari,4.0,5.0,10.0,Finished,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,GAS,10,Red Bull,6.0,6.0,9.0,Finished,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,RIC,3,Renault,7.0,7.0,6.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,PER,11,Racing Point,12.0,8.0,4.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,RAI,7,Alfa Romeo,13.0,9.0,2.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,ALB,23,Toro Rosso,0.0,10.0,1.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,GRO,8,Haas F1 Team,10.0,11.0,0.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,STR,18,Racing Point,16.0,12.0,0.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,MAG,20,Haas F1 Team,9.0,13.0,0.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,SAI,55,McLaren,14.0,14.0,0.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,GIO,99,Alfa Romeo,19.0,15.0,0.0,+1 Lap,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,RUS,63,Williams,17.0,16.0,0.0,+2 Laps,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,KUB,88,Williams,18.0,17.0,0.0,+2 Laps,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,NOR,1,McLaren,15.0,18.0,0.0,Collision,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,KVY,26,Toro Rosso,11.0,19.0,0.0,Collision,0,0
+2019,3,2019-04-14,Chinese Grand Prix,China,Shanghai,conventional,HUL,27,Renault,8.0,20.0,0.0,Power Unit,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,BOT,77,Mercedes,1.0,1.0,25.0,Finished,1,1
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,HAM,44,Mercedes,2.0,2.0,18.0,Finished,0,1
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,VET,5,Ferrari,3.0,3.0,15.0,Finished,0,1
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,VER,3,Red Bull,4.0,4.0,12.0,Finished,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,LEC,16,Ferrari,8.0,5.0,11.0,Finished,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,PER,11,Racing Point,5.0,6.0,8.0,Finished,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,SAI,55,McLaren,9.0,7.0,6.0,Finished,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,NOR,1,McLaren,7.0,8.0,4.0,Finished,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,STR,18,Racing Point,13.0,9.0,2.0,Finished,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,RAI,7,Alfa Romeo,0.0,10.0,1.0,+1 Lap,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,ALB,23,Toro Rosso,11.0,11.0,0.0,+1 Lap,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,GIO,99,Alfa Romeo,17.0,12.0,0.0,+1 Lap,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,MAG,20,Haas F1 Team,12.0,13.0,0.0,+1 Lap,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,HUL,27,Renault,15.0,14.0,0.0,+1 Lap,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,RUS,63,Williams,16.0,15.0,0.0,+2 Laps,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,KUB,88,Williams,0.0,16.0,0.0,+2 Laps,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,GAS,10,Red Bull,0.0,17.0,0.0,Transmission,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,GRO,8,Haas F1 Team,14.0,18.0,0.0,Brakes,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,KVY,26,Toro Rosso,6.0,19.0,0.0,Collision,0,0
+2019,4,2019-04-28,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,RIC,3,Renault,10.0,20.0,0.0,Collision,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,HAM,44,Mercedes,2.0,1.0,26.0,Finished,1,1
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,BOT,77,Mercedes,1.0,2.0,18.0,Finished,0,1
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,VER,3,Red Bull,4.0,3.0,15.0,Finished,0,1
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,VET,5,Ferrari,3.0,4.0,12.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,LEC,16,Ferrari,5.0,5.0,10.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,GAS,10,Red Bull,6.0,6.0,8.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,MAG,20,Haas F1 Team,8.0,7.0,6.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,SAI,55,McLaren,12.0,8.0,4.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,KVY,26,Toro Rosso,9.0,9.0,2.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,GRO,8,Haas F1 Team,7.0,10.0,1.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,ALB,23,Toro Rosso,11.0,11.0,0.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,RIC,3,Renault,13.0,12.0,0.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,HUL,27,Renault,0.0,13.0,0.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,RAI,7,Alfa Romeo,14.0,14.0,0.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,PER,11,Racing Point,15.0,15.0,0.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,GIO,99,Alfa Romeo,18.0,16.0,0.0,Finished,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,RUS,63,Williams,19.0,17.0,0.0,+1 Lap,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,KUB,88,Williams,17.0,18.0,0.0,+1 Lap,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,STR,18,Racing Point,16.0,19.0,0.0,Collision,0,0
+2019,5,2019-05-12,Spanish Grand Prix,Spain,Barcelona,conventional,NOR,1,McLaren,10.0,20.0,0.0,Collision,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,BOT,77,Mercedes,1.0,1.0,25.0,Finished,1,1
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,LEC,16,Ferrari,7.0,2.0,18.0,Finished,0,1
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,NOR,1,McLaren,3.0,3.0,16.0,Finished,0,1
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,HAM,44,Mercedes,5.0,4.0,12.0,Finished,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,SAI,55,McLaren,8.0,5.0,10.0,Finished,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,PER,11,Racing Point,6.0,6.0,8.0,Finished,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,GAS,10,AlphaTauri,12.0,7.0,6.0,Finished,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,OCO,31,Renault,14.0,8.0,4.0,Finished,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,GIO,99,Alfa Romeo,18.0,9.0,2.0,Finished,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,VET,5,Ferrari,11.0,10.0,1.0,Finished,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,LAT,6,Williams,20.0,11.0,0.0,Finished,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,KVY,26,AlphaTauri,13.0,12.0,0.0,Suspension,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,ALB,23,Red Bull,4.0,13.0,0.0,Electronics,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,RAI,7,Alfa Romeo,19.0,14.0,0.0,Wheel,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,RUS,63,Williams,17.0,15.0,0.0,Fuel pressure,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,GRO,8,Haas F1 Team,15.0,16.0,0.0,Brakes,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,MAG,20,Haas F1 Team,16.0,17.0,0.0,Brakes,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,STR,18,Racing Point,9.0,18.0,0.0,Engine,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,RIC,3,Renault,10.0,19.0,0.0,Overheating,0,0
+2020,1,2020-07-05,Austrian Grand Prix,Austria,Spielberg,conventional,VER,3,Red Bull,2.0,20.0,0.0,Electronics,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,HAM,44,Mercedes,1.0,1.0,25.0,Finished,1,1
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,BOT,77,Mercedes,4.0,2.0,18.0,Finished,0,1
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,VER,3,Red Bull,2.0,3.0,15.0,Finished,0,1
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,ALB,23,Red Bull,6.0,4.0,12.0,Finished,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,NOR,1,McLaren,9.0,5.0,10.0,Finished,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,PER,11,Racing Point,17.0,6.0,8.0,Finished,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,STR,18,Racing Point,12.0,7.0,6.0,Finished,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,RIC,3,Renault,8.0,8.0,4.0,Finished,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,SAI,55,McLaren,3.0,9.0,3.0,+1 Lap,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,KVY,26,AlphaTauri,13.0,10.0,1.0,+1 Lap,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,RAI,7,Alfa Romeo,16.0,11.0,0.0,+1 Lap,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,MAG,20,Haas F1 Team,15.0,12.0,0.0,+1 Lap,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,GRO,8,Haas F1 Team,0.0,13.0,0.0,+1 Lap,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,GIO,99,Alfa Romeo,19.0,14.0,0.0,+1 Lap,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,GAS,10,AlphaTauri,7.0,15.0,0.0,+1 Lap,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,RUS,63,Williams,11.0,16.0,0.0,+2 Laps,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,LAT,6,Williams,18.0,17.0,0.0,+2 Laps,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,OCO,31,Renault,5.0,18.0,0.0,Overheating,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,LEC,16,Ferrari,14.0,19.0,0.0,Collision damage,0,0
+2020,2,2020-07-12,Styrian Grand Prix,Austria,Spielberg,conventional,VET,5,Ferrari,10.0,20.0,0.0,Collision damage,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,HAM,44,Mercedes,1.0,1.0,26.0,Finished,1,1
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,VER,3,Red Bull,7.0,2.0,18.0,Finished,0,1
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,BOT,77,Mercedes,2.0,3.0,15.0,Finished,0,1
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,STR,18,Racing Point,3.0,4.0,12.0,Finished,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,ALB,23,Red Bull,13.0,5.0,10.0,Finished,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,VET,5,Ferrari,5.0,6.0,8.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,PER,11,Racing Point,4.0,7.0,6.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,RIC,3,Renault,11.0,8.0,4.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,SAI,55,McLaren,9.0,9.0,2.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,MAG,20,Haas F1 Team,0.0,10.0,1.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,LEC,16,Ferrari,6.0,11.0,0.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,KVY,26,AlphaTauri,17.0,12.0,0.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,NOR,1,McLaren,8.0,13.0,0.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,OCO,31,Renault,14.0,14.0,0.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,RAI,7,Alfa Romeo,20.0,15.0,0.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,GRO,8,Haas F1 Team,0.0,16.0,0.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,GIO,99,Alfa Romeo,19.0,17.0,0.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,RUS,63,Williams,12.0,18.0,0.0,+1 Lap,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,LAT,6,Williams,15.0,19.0,0.0,+5 Laps,0,0
+2020,3,2020-07-19,Hungarian Grand Prix,Hungary,Budapest,conventional,GAS,10,AlphaTauri,10.0,20.0,0.0,Engine,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,HAM,44,Mercedes,1.0,1.0,25.0,Finished,1,1
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,VER,3,Red Bull,3.0,2.0,19.0,Finished,0,1
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,LEC,16,Ferrari,4.0,3.0,15.0,Finished,0,1
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,RIC,3,Renault,8.0,4.0,12.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,NOR,1,McLaren,5.0,5.0,10.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,OCO,31,Renault,9.0,6.0,8.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,GAS,10,AlphaTauri,11.0,7.0,6.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,ALB,23,Red Bull,12.0,8.0,4.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,STR,18,Racing Point,6.0,9.0,2.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,VET,5,Ferrari,10.0,10.0,1.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,BOT,77,Mercedes,2.0,11.0,0.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,RUS,63,Williams,20.0,12.0,0.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,SAI,55,McLaren,7.0,13.0,0.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,GIO,99,Alfa Romeo,15.0,14.0,0.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,LAT,6,Williams,18.0,15.0,0.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,GRO,8,Haas F1 Team,17.0,16.0,0.0,Finished,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,RAI,7,Alfa Romeo,16.0,17.0,0.0,+1 Lap,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,KVY,26,AlphaTauri,19.0,18.0,0.0,Accident,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,MAG,20,Haas F1 Team,14.0,19.0,0.0,Collision,0,0
+2020,4,2020-08-02,British Grand Prix,UK,Silverstone,conventional,HUL,27,Racing Point,13.0,20.0,0.0,Power Unit,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,VER,3,Red Bull,4.0,1.0,25.0,Finished,1,1
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,HAM,44,Mercedes,2.0,2.0,19.0,Finished,0,1
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,BOT,77,Mercedes,1.0,3.0,15.0,Finished,0,1
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,LEC,16,Ferrari,8.0,4.0,12.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,ALB,23,Red Bull,9.0,5.0,10.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,STR,18,Racing Point,6.0,6.0,8.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,HUL,27,Racing Point,3.0,7.0,6.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,OCO,31,Renault,14.0,8.0,4.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,NOR,1,McLaren,10.0,9.0,2.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,KVY,26,AlphaTauri,16.0,10.0,1.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,GAS,10,AlphaTauri,7.0,11.0,0.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,VET,5,Ferrari,11.0,12.0,0.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,SAI,55,McLaren,12.0,13.0,0.0,Finished,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,RIC,3,Renault,5.0,14.0,0.0,+1 Lap,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,RAI,7,Alfa Romeo,20.0,15.0,0.0,+1 Lap,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,GRO,8,Haas F1 Team,13.0,16.0,0.0,+1 Lap,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,GIO,99,Alfa Romeo,19.0,17.0,0.0,+1 Lap,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,RUS,63,Williams,15.0,18.0,0.0,+1 Lap,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,LAT,6,Williams,18.0,19.0,0.0,+1 Lap,0,0
+2020,5,2020-08-09,70th Anniversary Grand Prix,UK,Silverstone,conventional,MAG,20,Haas F1 Team,17.0,20.0,0.0,Retired,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAM,44,Mercedes,2.0,1.0,25.0,Finished,1,1
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VER,3,Red Bull,1.0,2.0,18.0,Finished,0,1
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,BOT,77,Mercedes,3.0,3.0,16.0,Finished,0,1
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,NOR,1,McLaren,7.0,4.0,12.0,Finished,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PER,11,Red Bull,0.0,5.0,10.0,Finished,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LEC,16,Ferrari,4.0,6.0,8.0,Finished,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RIC,3,McLaren,6.0,7.0,6.0,Finished,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAI,55,Ferrari,8.0,8.0,4.0,Finished,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,TSU,22,AlphaTauri,13.0,9.0,2.0,Finished,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,STR,18,Aston Martin,10.0,10.0,1.0,Finished,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RAI,7,Alfa Romeo,14.0,11.0,0.0,Finished,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GIO,99,Alfa Romeo,12.0,12.0,0.0,+1 Lap,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,OCO,31,Alpine F1 Team,16.0,13.0,0.0,+1 Lap,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RUS,63,Williams,15.0,14.0,0.0,+1 Lap,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VET,5,Aston Martin,20.0,15.0,0.0,+1 Lap,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,MSC,47,Haas F1 Team,18.0,16.0,0.0,+1 Lap,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GAS,10,AlphaTauri,5.0,17.0,0.0,Retired,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LAT,6,Williams,17.0,18.0,0.0,Retired,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALO,14,Alpine F1 Team,9.0,19.0,0.0,Brakes,0,0
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain,Sakhir,conventional,MAZ,9,Haas F1 Team,19.0,20.0,0.0,Accident,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,VER,3,Red Bull,3.0,1.0,25.0,Finished,1,1
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,HAM,44,Mercedes,1.0,2.0,19.0,Finished,0,1
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,NOR,1,McLaren,7.0,3.0,15.0,Finished,0,1
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,LEC,16,Ferrari,4.0,4.0,12.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,SAI,55,Ferrari,11.0,5.0,10.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,RIC,3,McLaren,6.0,6.0,8.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,GAS,10,AlphaTauri,5.0,7.0,6.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,STR,18,Aston Martin,10.0,8.0,4.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,OCO,31,Alpine F1 Team,9.0,9.0,2.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,ALO,14,Alpine F1 Team,15.0,10.0,1.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,PER,11,Red Bull,2.0,11.0,0.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,TSU,22,AlphaTauri,20.0,12.0,0.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,RAI,7,Alfa Romeo,16.0,13.0,0.0,Finished,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,GIO,99,Alfa Romeo,17.0,14.0,0.0,+1 Lap,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,VET,5,Aston Martin,0.0,15.0,0.0,Gearbox,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,MSC,47,Haas F1 Team,18.0,16.0,0.0,+2 Laps,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,MAZ,9,Haas F1 Team,19.0,17.0,0.0,+2 Laps,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,BOT,77,Mercedes,8.0,18.0,0.0,Collision,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,RUS,63,Williams,12.0,19.0,0.0,Collision,0,0
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Italy,Imola,conventional,LAT,6,Williams,14.0,20.0,0.0,Collision,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,HAM,44,Mercedes,2.0,1.0,25.0,Finished,1,1
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,VER,3,Red Bull,3.0,2.0,18.0,Finished,0,1
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,BOT,77,Mercedes,1.0,3.0,16.0,Finished,0,1
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,PER,11,Red Bull,4.0,4.0,12.0,Finished,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,NOR,1,McLaren,7.0,5.0,10.0,Finished,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,LEC,16,Ferrari,8.0,6.0,8.0,Finished,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,OCO,31,Alpine F1 Team,6.0,7.0,6.0,Finished,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,ALO,14,Alpine F1 Team,13.0,8.0,4.0,Finished,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,RIC,3,McLaren,16.0,9.0,2.0,Finished,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,GAS,10,AlphaTauri,9.0,10.0,1.0,Finished,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,SAI,55,Ferrari,5.0,11.0,0.0,Finished,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,GIO,99,Alfa Romeo,12.0,12.0,0.0,+1 Lap,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,VET,5,Aston Martin,10.0,13.0,0.0,+1 Lap,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,STR,18,Aston Martin,17.0,14.0,0.0,+1 Lap,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,TSU,22,AlphaTauri,14.0,15.0,0.0,+1 Lap,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,RUS,63,Williams,11.0,16.0,0.0,+1 Lap,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,MSC,47,Haas F1 Team,19.0,17.0,0.0,+2 Laps,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,LAT,6,Williams,18.0,18.0,0.0,+2 Laps,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,MAZ,9,Haas F1 Team,20.0,19.0,0.0,+2 Laps,0,0
+2021,3,2021-05-02,Portuguese Grand Prix,Portugal,Portimão,conventional,RAI,7,Alfa Romeo,15.0,20.0,0.0,Collision damage,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,HAM,44,Mercedes,1.0,1.0,25.0,Finished,1,1
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,VER,3,Red Bull,2.0,2.0,19.0,Finished,0,1
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,BOT,77,Mercedes,3.0,3.0,15.0,Finished,0,1
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,LEC,16,Ferrari,4.0,4.0,12.0,Finished,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,PER,11,Red Bull,8.0,5.0,10.0,Finished,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,RIC,3,McLaren,7.0,6.0,8.0,Finished,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,SAI,55,Ferrari,6.0,7.0,6.0,Finished,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,NOR,1,McLaren,9.0,8.0,4.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,OCO,31,Alpine F1 Team,5.0,9.0,2.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,GAS,10,AlphaTauri,12.0,10.0,1.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,STR,18,Aston Martin,11.0,11.0,0.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,RAI,7,Alfa Romeo,17.0,12.0,0.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,VET,5,Aston Martin,13.0,13.0,0.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,RUS,63,Williams,15.0,14.0,0.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,GIO,99,Alfa Romeo,14.0,15.0,0.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,LAT,6,Williams,19.0,16.0,0.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,ALO,14,Alpine F1 Team,10.0,17.0,0.0,+1 Lap,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,MSC,47,Haas F1 Team,18.0,18.0,0.0,+2 Laps,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,MAZ,9,Haas F1 Team,20.0,19.0,0.0,+2 Laps,0,0
+2021,4,2021-05-09,Spanish Grand Prix,Spain,Barcelona,conventional,TSU,22,AlphaTauri,16.0,20.0,0.0,Electrical,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,VER,3,Red Bull,2.0,1.0,25.0,Finished,1,1
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,SAI,55,Ferrari,4.0,2.0,18.0,Finished,0,1
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,NOR,1,McLaren,5.0,3.0,15.0,Finished,0,1
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,PER,11,Red Bull,9.0,4.0,12.0,Finished,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,VET,5,Aston Martin,8.0,5.0,10.0,Finished,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,GAS,10,AlphaTauri,6.0,6.0,8.0,Finished,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,HAM,44,Mercedes,7.0,7.0,7.0,Finished,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,STR,18,Aston Martin,13.0,8.0,4.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,OCO,31,Alpine F1 Team,11.0,9.0,2.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,GIO,99,Alfa Romeo,10.0,10.0,1.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,RAI,7,Alfa Romeo,14.0,11.0,0.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,RIC,3,McLaren,12.0,12.0,0.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,ALO,14,Alpine F1 Team,17.0,13.0,0.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,RUS,63,Williams,15.0,14.0,0.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,LAT,6,Williams,18.0,15.0,0.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,TSU,22,AlphaTauri,16.0,16.0,0.0,+1 Lap,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,MAZ,9,Haas F1 Team,19.0,17.0,0.0,+3 Laps,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,MSC,47,Haas F1 Team,20.0,18.0,0.0,+3 Laps,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,BOT,77,Mercedes,3.0,19.0,0.0,Wheel nut,0,0
+2021,5,2021-05-23,Monaco Grand Prix,Monaco,Monte Carlo,conventional,LEC,16,Ferrari,1.0,20.0,0.0,Driveshaft,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LEC,16,Ferrari,1.0,1.0,26.0,Finished,1,1
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAI,55,Ferrari,3.0,2.0,18.0,Finished,0,1
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAM,44,Mercedes,5.0,3.0,15.0,Finished,0,1
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RUS,63,Mercedes,9.0,4.0,12.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,MAG,20,Haas F1 Team,7.0,5.0,10.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,BOT,77,Alfa Romeo,6.0,6.0,8.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,OCO,31,Alpine F1 Team,11.0,7.0,6.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,TSU,22,AlphaTauri,16.0,8.0,4.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALO,14,Alpine F1 Team,8.0,9.0,2.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ZHO,24,Alfa Romeo,15.0,10.0,1.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,MSC,47,Haas F1 Team,12.0,11.0,0.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,STR,18,Aston Martin,19.0,12.0,0.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALB,23,Williams,14.0,13.0,0.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RIC,3,McLaren,18.0,14.0,0.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,NOR,1,McLaren,13.0,15.0,0.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LAT,6,Williams,20.0,16.0,0.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HUL,27,Aston Martin,17.0,17.0,0.0,Finished,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PER,11,Red Bull,4.0,18.0,0.0,Fuel pressure,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VER,3,Red Bull,2.0,19.0,0.0,Fuel pressure,0,0
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GAS,10,AlphaTauri,10.0,20.0,0.0,Power Unit,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,VER,3,Red Bull,4.0,1.0,25.0,Finished,1,1
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,LEC,16,Ferrari,2.0,2.0,19.0,Finished,0,1
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,SAI,55,Ferrari,3.0,3.0,15.0,Finished,0,1
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,PER,11,Red Bull,1.0,4.0,12.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,RUS,63,Mercedes,6.0,5.0,10.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,OCO,31,Alpine F1 Team,5.0,6.0,8.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,NOR,1,McLaren,11.0,7.0,6.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,GAS,10,AlphaTauri,9.0,8.0,4.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,MAG,20,Haas F1 Team,10.0,9.0,2.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HAM,44,Mercedes,15.0,10.0,1.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ZHO,24,Alfa Romeo,12.0,11.0,0.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HUL,27,Aston Martin,17.0,12.0,0.0,Finished,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,STR,18,Aston Martin,13.0,13.0,0.0,+1 Lap,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ALB,23,Williams,16.0,14.0,0.0,Collision damage,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,BOT,77,Alfa Romeo,8.0,15.0,0.0,Cooling system,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ALO,14,Alpine F1 Team,7.0,16.0,0.0,Water pump,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,RIC,3,McLaren,14.0,17.0,0.0,Gearbox,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,LAT,6,Williams,18.0,18.0,0.0,Accident,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,TSU,22,AlphaTauri,19.0,19.0,0.0,Power Unit,0,0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,MSC,47,Haas F1 Team,0.0,20.0,0.0,Withdrew,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,LEC,16,Ferrari,1.0,1.0,26.0,Finished,1,1
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,PER,11,Red Bull,3.0,2.0,18.0,Finished,0,1
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,RUS,63,Mercedes,6.0,3.0,15.0,Finished,0,1
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,HAM,44,Mercedes,5.0,4.0,12.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,NOR,1,McLaren,4.0,5.0,10.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,RIC,3,McLaren,7.0,6.0,8.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,OCO,31,Alpine F1 Team,8.0,7.0,6.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,BOT,77,Alfa Romeo,12.0,8.0,4.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,GAS,10,AlphaTauri,11.0,9.0,2.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,ALB,23,Williams,20.0,10.0,1.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,ZHO,24,Alfa Romeo,14.0,11.0,0.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,STR,18,Aston Martin,19.0,12.0,0.0,Finished,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,MSC,47,Haas F1 Team,15.0,13.0,0.0,+1 Lap,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,MAG,20,Haas F1 Team,16.0,14.0,0.0,+1 Lap,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,TSU,22,AlphaTauri,13.0,15.0,0.0,+1 Lap,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,LAT,6,Williams,18.0,16.0,0.0,+1 Lap,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,ALO,14,Alpine F1 Team,10.0,17.0,0.0,+1 Lap,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,VER,3,Red Bull,2.0,18.0,0.0,Fuel leak,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,VET,5,Aston Martin,17.0,19.0,0.0,Accident,0,0
+2022,3,2022-04-10,Australian Grand Prix,Australia,Melbourne,conventional,SAI,55,Ferrari,9.0,20.0,0.0,Spun off,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,VER,3,Red Bull,1.0,1.0,26.0,Finished,1,1
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,PER,11,Red Bull,3.0,2.0,18.0,Finished,0,1
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,NOR,1,McLaren,5.0,3.0,15.0,Finished,0,1
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,RUS,63,Mercedes,11.0,4.0,12.0,Finished,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,BOT,77,Alfa Romeo,7.0,5.0,10.0,Finished,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,LEC,16,Ferrari,2.0,6.0,8.0,Finished,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,TSU,22,AlphaTauri,12.0,7.0,6.0,Finished,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,VET,5,Aston Martin,13.0,8.0,4.0,Finished,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,MAG,20,Haas F1 Team,8.0,9.0,2.0,Finished,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,STR,18,Aston Martin,15.0,10.0,1.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,ALB,23,Williams,18.0,11.0,0.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,GAS,10,AlphaTauri,17.0,12.0,0.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,HAM,44,Mercedes,14.0,13.0,0.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,OCO,31,Alpine F1 Team,16.0,14.0,0.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,ZHO,24,Alfa Romeo,0.0,15.0,0.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,LAT,6,Williams,19.0,16.0,0.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,MSC,47,Haas F1 Team,10.0,17.0,0.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,RIC,3,McLaren,6.0,18.0,0.0,+1 Lap,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,ALO,14,Alpine F1 Team,9.0,19.0,0.0,Collision damage,0,0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Italy,Imola,conventional,SAI,55,Ferrari,4.0,20.0,0.0,Collision,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,VER,3,Red Bull,3.0,1.0,26.0,Finished,1,1
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,LEC,16,Ferrari,1.0,2.0,18.0,Finished,0,1
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,SAI,55,Ferrari,2.0,3.0,15.0,Finished,0,1
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,PER,11,Red Bull,4.0,4.0,12.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,RUS,63,Mercedes,12.0,5.0,10.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,HAM,44,Mercedes,6.0,6.0,8.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,BOT,77,Alfa Romeo,5.0,7.0,6.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,OCO,31,Alpine F1 Team,20.0,8.0,4.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,ALB,23,Williams,18.0,9.0,2.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,STR,18,Aston Martin,0.0,10.0,1.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,ALO,14,Alpine F1 Team,11.0,11.0,0.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,TSU,22,AlphaTauri,9.0,12.0,0.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,RIC,3,McLaren,14.0,13.0,0.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,LAT,6,Williams,19.0,14.0,0.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,MSC,47,Haas F1 Team,15.0,15.0,0.0,Finished,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,MAG,20,Haas F1 Team,16.0,16.0,0.0,Front wing,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,VET,5,Aston Martin,0.0,17.0,0.0,Collision,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,GAS,10,AlphaTauri,7.0,18.0,0.0,Suspension,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,NOR,1,McLaren,8.0,19.0,0.0,Collision,0,0
+2022,5,2022-05-08,Miami Grand Prix,USA,Miami,conventional,ZHO,24,Alfa Romeo,17.0,20.0,0.0,Water leak,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VER,3,Red Bull,1.0,1.0,25.0,Finished,1,1
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PER,11,Red Bull,2.0,2.0,18.0,Finished,0,1
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALO,14,Aston Martin,5.0,3.0,15.0,Finished,0,1
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAI,55,Ferrari,4.0,4.0,12.0,Finished,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAM,44,Mercedes,7.0,5.0,10.0,Finished,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,STR,18,Aston Martin,8.0,6.0,8.0,Finished,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RUS,63,Mercedes,6.0,7.0,6.0,Finished,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,BOT,77,Alfa Romeo,12.0,8.0,4.0,Finished,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GAS,10,Alpine F1 Team,20.0,9.0,2.0,Finished,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALB,23,Williams,15.0,10.0,1.0,Finished,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,TSU,22,AlphaTauri,14.0,11.0,0.0,Finished,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAR,2,Williams,16.0,12.0,0.0,Lapped,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,MAG,20,Haas F1 Team,17.0,13.0,0.0,Lapped,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,DEV,21,AlphaTauri,19.0,14.0,0.0,Lapped,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HUL,27,Haas F1 Team,10.0,15.0,0.0,Lapped,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ZHO,24,Alfa Romeo,13.0,16.0,0.0,Lapped,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,NOR,1,McLaren,11.0,17.0,0.0,Lapped,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,OCO,31,Alpine F1 Team,9.0,18.0,0.0,Retired,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LEC,16,Ferrari,3.0,19.0,0.0,Retired,0,0
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PIA,81,McLaren,18.0,20.0,0.0,Retired,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,PER,11,Red Bull,1.0,1.0,25.0,Finished,1,1
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,VER,3,Red Bull,15.0,2.0,19.0,Finished,0,1
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ALO,14,Aston Martin,2.0,3.0,15.0,Finished,0,1
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,RUS,63,Mercedes,3.0,4.0,12.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HAM,44,Mercedes,7.0,5.0,10.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,SAI,55,Ferrari,4.0,6.0,8.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,LEC,16,Ferrari,12.0,7.0,6.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,OCO,31,Alpine F1 Team,6.0,8.0,4.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,GAS,10,Alpine F1 Team,9.0,9.0,2.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,MAG,20,Haas F1 Team,13.0,10.0,1.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,TSU,22,AlphaTauri,16.0,11.0,0.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HUL,27,Haas F1 Team,10.0,12.0,0.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ZHO,24,Alfa Romeo,11.0,13.0,0.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,DEV,21,AlphaTauri,18.0,14.0,0.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,PIA,81,McLaren,8.0,15.0,0.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,SAR,2,Williams,20.0,16.0,0.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,NOR,1,McLaren,19.0,17.0,0.0,Finished,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,BOT,77,Alfa Romeo,14.0,18.0,0.0,Lapped,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ALB,23,Williams,17.0,19.0,0.0,Retired,0,0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,STR,18,Aston Martin,5.0,20.0,0.0,Retired,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,VER,3,Red Bull,1.0,1.0,25.0,Finished,1,1
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,HAM,44,Mercedes,3.0,2.0,18.0,Finished,0,1
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,ALO,14,Aston Martin,4.0,3.0,15.0,Finished,0,1
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,STR,18,Aston Martin,6.0,4.0,12.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,PER,11,Red Bull,20.0,5.0,11.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,NOR,1,McLaren,13.0,6.0,8.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,HUL,27,Haas F1 Team,10.0,7.0,6.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,PIA,81,McLaren,16.0,8.0,4.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,ZHO,24,Alfa Romeo,17.0,9.0,2.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,TSU,22,AlphaTauri,12.0,10.0,1.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,BOT,77,Alfa Romeo,19.0,11.0,0.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,SAI,55,Ferrari,5.0,12.0,0.0,Finished,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,GAS,10,Alpine F1 Team,9.0,13.0,0.0,Retired,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,OCO,31,Alpine F1 Team,11.0,14.0,0.0,Retired,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,DEV,21,AlphaTauri,15.0,15.0,0.0,Retired,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,SAR,2,Williams,18.0,16.0,0.0,Retired,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,MAG,20,Haas F1 Team,14.0,17.0,0.0,Retired,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,RUS,63,Mercedes,2.0,18.0,0.0,Retired,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,ALB,23,Williams,8.0,19.0,0.0,Retired,0,0
+2023,3,2023-04-02,Australian Grand Prix,Australia,Melbourne,conventional,LEC,16,Ferrari,7.0,20.0,0.0,Retired,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,PER,11,Red Bull,3.0,1.0,25.0,Finished,1,1
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,VER,3,Red Bull,2.0,2.0,18.0,Finished,0,1
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,LEC,16,Ferrari,1.0,3.0,15.0,Finished,0,1
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,ALO,14,Aston Martin,6.0,4.0,12.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,SAI,55,Ferrari,4.0,5.0,10.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,HAM,44,Mercedes,5.0,6.0,8.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,STR,18,Aston Martin,9.0,7.0,6.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,RUS,63,Mercedes,11.0,8.0,5.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,NOR,1,McLaren,7.0,9.0,2.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,TSU,22,AlphaTauri,8.0,10.0,1.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,PIA,81,McLaren,10.0,11.0,0.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,ALB,23,Williams,12.0,12.0,0.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,MAG,20,Haas F1 Team,16.0,13.0,0.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,GAS,10,Alpine F1 Team,17.0,14.0,0.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,OCO,31,Alpine F1 Team,19.0,15.0,0.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,SAR,2,Williams,14.0,16.0,0.0,Finished,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,HUL,27,Haas F1 Team,20.0,17.0,0.0,Lapped,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,BOT,77,Alfa Romeo,13.0,18.0,0.0,Lapped,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,ZHO,24,Alfa Romeo,15.0,19.0,0.0,Retired,0,0
+2023,4,2023-04-30,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,DEV,21,AlphaTauri,18.0,20.0,0.0,Retired,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,VER,3,Red Bull,9.0,1.0,26.0,Finished,1,1
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,PER,11,Red Bull,1.0,2.0,18.0,Finished,0,1
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,ALO,14,Aston Martin,2.0,3.0,15.0,Finished,0,1
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,RUS,63,Mercedes,6.0,4.0,12.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,SAI,55,Ferrari,3.0,5.0,10.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,HAM,44,Mercedes,13.0,6.0,8.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,LEC,16,Ferrari,7.0,7.0,6.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,GAS,10,Alpine F1 Team,5.0,8.0,4.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,OCO,31,Alpine F1 Team,8.0,9.0,2.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,MAG,20,Haas F1 Team,4.0,10.0,1.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,TSU,22,AlphaTauri,17.0,11.0,0.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,STR,18,Aston Martin,18.0,12.0,0.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,BOT,77,Alfa Romeo,10.0,13.0,0.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,ALB,23,Williams,11.0,14.0,0.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,HUL,27,Haas F1 Team,12.0,15.0,0.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,ZHO,24,Alfa Romeo,14.0,16.0,0.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,NOR,1,McLaren,16.0,17.0,0.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,DEV,21,AlphaTauri,15.0,18.0,0.0,Finished,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,PIA,81,McLaren,19.0,19.0,0.0,Lapped,0,0
+2023,5,2023-05-07,Miami Grand Prix,USA,Miami,conventional,SAR,2,Williams,20.0,20.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VER,3,Red Bull,1.0,1.0,26.0,Finished,1,1
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PER,11,Red Bull,5.0,2.0,18.0,Finished,0,1
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAI,55,Ferrari,4.0,3.0,15.0,Finished,0,1
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LEC,16,Ferrari,2.0,4.0,12.0,Finished,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RUS,63,Mercedes,3.0,5.0,10.0,Finished,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,NOR,1,McLaren,7.0,6.0,8.0,Finished,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAM,44,Mercedes,9.0,7.0,6.0,Finished,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PIA,81,McLaren,8.0,8.0,4.0,Finished,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALO,14,Aston Martin,6.0,9.0,2.0,Finished,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,STR,18,Aston Martin,12.0,10.0,1.0,Finished,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ZHO,24,Sauber,17.0,11.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,MAG,20,Haas F1 Team,15.0,12.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RIC,3,RB F1 Team,14.0,13.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,TSU,22,RB F1 Team,11.0,14.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALB,23,Williams,13.0,15.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HUL,27,Haas F1 Team,10.0,16.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,OCO,31,Alpine F1 Team,19.0,17.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GAS,10,Alpine F1 Team,20.0,18.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,BOT,77,Sauber,16.0,19.0,0.0,Lapped,0,0
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAR,2,Williams,18.0,20.0,0.0,Lapped,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,VER,3,Red Bull,1.0,1.0,25.0,Finished,1,1
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,PER,11,Red Bull,3.0,2.0,18.0,Finished,0,1
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,LEC,16,Ferrari,2.0,3.0,16.0,Finished,0,1
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,PIA,81,McLaren,5.0,4.0,12.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ALO,14,Aston Martin,4.0,5.0,10.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,RUS,63,Mercedes,7.0,6.0,8.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,BEA,87,Ferrari,11.0,7.0,6.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,NOR,1,McLaren,6.0,8.0,4.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HAM,44,Mercedes,8.0,9.0,2.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HUL,27,Haas F1 Team,15.0,10.0,1.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ALB,23,Williams,12.0,11.0,0.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,MAG,20,Haas F1 Team,13.0,12.0,0.0,Finished,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,OCO,31,Alpine F1 Team,17.0,13.0,0.0,Lapped,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,SAR,2,Williams,19.0,14.0,0.0,Lapped,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,TSU,22,RB F1 Team,9.0,15.0,0.0,Lapped,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,RIC,3,RB F1 Team,14.0,16.0,0.0,Lapped,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,BOT,77,Sauber,16.0,17.0,0.0,Lapped,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ZHO,24,Sauber,20.0,18.0,0.0,Lapped,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,STR,18,Aston Martin,10.0,19.0,0.0,Retired,0,0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,GAS,10,Alpine F1 Team,18.0,20.0,0.0,Retired,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,SAI,55,Ferrari,2.0,1.0,25.0,Finished,1,1
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,LEC,16,Ferrari,4.0,2.0,19.0,Finished,0,1
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,NOR,1,McLaren,3.0,3.0,15.0,Finished,0,1
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,PIA,81,McLaren,5.0,4.0,12.0,Finished,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,PER,11,Red Bull,6.0,5.0,10.0,Finished,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,STR,18,Aston Martin,9.0,6.0,8.0,Finished,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,TSU,22,RB F1 Team,8.0,7.0,6.0,Finished,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,ALO,14,Aston Martin,10.0,8.0,4.0,Finished,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,HUL,27,Haas F1 Team,16.0,9.0,2.0,Finished,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,MAG,20,Haas F1 Team,14.0,10.0,1.0,Lapped,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,ALB,23,Williams,12.0,11.0,0.0,Lapped,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,RIC,3,RB F1 Team,18.0,12.0,0.0,Lapped,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,GAS,10,Alpine F1 Team,17.0,13.0,0.0,Lapped,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,BOT,77,Sauber,13.0,14.0,0.0,Lapped,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,ZHO,24,Sauber,19.0,15.0,0.0,Lapped,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,OCO,31,Alpine F1 Team,15.0,16.0,0.0,Lapped,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,RUS,63,Mercedes,7.0,17.0,0.0,Retired,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,HAM,44,Mercedes,11.0,18.0,0.0,Retired,0,0
+2024,3,2024-03-24,Australian Grand Prix,Australia,Melbourne,conventional,VER,3,Red Bull,1.0,19.0,0.0,Retired,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,VER,3,Red Bull,1.0,1.0,26.0,Finished,1,1
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,PER,11,Red Bull,2.0,2.0,18.0,Finished,0,1
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,SAI,55,Ferrari,4.0,3.0,15.0,Finished,0,1
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,LEC,16,Ferrari,8.0,4.0,12.0,Finished,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,NOR,1,McLaren,3.0,5.0,10.0,Finished,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,ALO,14,Aston Martin,5.0,6.0,8.0,Finished,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,RUS,63,Mercedes,9.0,7.0,6.0,Finished,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,PIA,81,McLaren,6.0,8.0,4.0,Finished,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,HAM,44,Mercedes,7.0,9.0,2.0,Finished,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,TSU,22,RB F1 Team,10.0,10.0,1.0,Lapped,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,HUL,27,Haas F1 Team,12.0,11.0,0.0,Lapped,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,STR,18,Aston Martin,16.0,12.0,0.0,Lapped,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,MAG,20,Haas F1 Team,18.0,13.0,0.0,Lapped,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,BOT,77,Sauber,13.0,14.0,0.0,Lapped,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,OCO,31,Alpine F1 Team,15.0,15.0,0.0,Lapped,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,GAS,10,Alpine F1 Team,17.0,16.0,0.0,Lapped,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,SAR,2,Williams,19.0,17.0,0.0,Lapped,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,ZHO,24,Sauber,20.0,18.0,0.0,Retired,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,RIC,3,RB F1 Team,11.0,19.0,0.0,Retired,0,0
+2024,4,2024-04-07,Japanese Grand Prix,Japan,Suzuka,conventional,ALB,23,Williams,14.0,20.0,0.0,Retired,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,VER,3,Red Bull,1.0,1.0,25.0,Finished,1,1
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,NOR,1,McLaren,4.0,2.0,18.0,Finished,0,1
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,PER,11,Red Bull,2.0,3.0,15.0,Finished,0,1
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,LEC,16,Ferrari,6.0,4.0,12.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,SAI,55,Ferrari,7.0,5.0,10.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,RUS,63,Mercedes,8.0,6.0,8.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,ALO,14,Aston Martin,3.0,7.0,7.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,PIA,81,McLaren,5.0,8.0,4.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,HAM,44,Mercedes,18.0,9.0,2.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,HUL,27,Haas F1 Team,9.0,10.0,1.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,OCO,31,Alpine F1 Team,13.0,11.0,0.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,ALB,23,Williams,14.0,12.0,0.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,GAS,10,Alpine F1 Team,15.0,13.0,0.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,ZHO,24,Sauber,16.0,14.0,0.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,STR,18,Aston Martin,11.0,15.0,0.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,MAG,20,Haas F1 Team,17.0,16.0,0.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,SAR,2,Williams,20.0,17.0,0.0,Finished,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,RIC,3,RB F1 Team,12.0,18.0,0.0,Retired,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,TSU,22,RB F1 Team,19.0,19.0,0.0,Retired,0,0
+2024,5,2024-04-21,Chinese Grand Prix,China,Shanghai,conventional,BOT,77,Sauber,10.0,20.0,0.0,Retired,0,0
+2024,6,2024-05-05,Miami Grand Prix,USA,Miami,conventional,NOR,1,McLaren,5.0,1.0,25.0,Finished,1,1
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,NOR,1,McLaren,1.0,1.0,25.0,Finished,1,1
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,VER,3,Red Bull,3.0,2.0,18.0,Finished,0,1
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,RUS,63,Mercedes,4.0,3.0,15.0,Finished,0,1
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,ANT,12,Mercedes,16.0,4.0,12.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,ALB,23,Williams,6.0,5.0,10.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,STR,18,Aston Martin,13.0,6.0,8.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,HUL,27,Sauber,17.0,7.0,6.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,LEC,16,Ferrari,7.0,8.0,4.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,PIA,81,McLaren,2.0,9.0,2.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,HAM,44,Ferrari,8.0,10.0,1.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,GAS,10,Alpine F1 Team,9.0,11.0,0.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,TSU,22,RB F1 Team,5.0,12.0,0.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,OCO,31,Haas F1 Team,19.0,13.0,0.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,BEA,87,Haas F1 Team,20.0,14.0,0.0,Finished,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,LAW,30,Red Bull,18.0,15.0,0.0,Retired,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,BOR,5,Sauber,15.0,16.0,0.0,Retired,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,ALO,14,Aston Martin,12.0,17.0,0.0,Retired,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,SAI,55,Williams,10.0,18.0,0.0,Retired,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,DOO,7,Alpine F1 Team,14.0,19.0,0.0,Retired,0,0
+2025,1,2025-03-16,Australian Grand Prix,Australia,Melbourne,conventional,HAD,6,RB F1 Team,11.0,20.0,0.0,Retired,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,PIA,81,McLaren,1.0,1.0,25.0,Finished,1,1
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,NOR,1,McLaren,3.0,2.0,18.0,Finished,0,1
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,RUS,63,Mercedes,2.0,3.0,15.0,Finished,0,1
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,VER,3,Red Bull,4.0,4.0,12.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,OCO,31,Haas F1 Team,11.0,5.0,10.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,ANT,12,Mercedes,8.0,6.0,8.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,ALB,23,Williams,10.0,7.0,6.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,BEA,87,Haas F1 Team,17.0,8.0,4.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,STR,18,Aston Martin,14.0,9.0,2.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,SAI,55,Williams,15.0,10.0,1.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,HAD,6,RB F1 Team,7.0,11.0,0.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,LAW,30,Red Bull,20.0,12.0,0.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,DOO,7,Alpine F1 Team,18.0,13.0,0.0,Finished,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,BOR,5,Sauber,19.0,14.0,0.0,Lapped,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,HUL,27,Sauber,12.0,15.0,0.0,Lapped,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,TSU,22,RB F1 Team,9.0,16.0,0.0,Lapped,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,ALO,14,Aston Martin,13.0,17.0,0.0,Retired,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,LEC,16,Ferrari,6.0,18.0,0.0,Disqualified,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,HAM,44,Ferrari,5.0,19.0,0.0,Disqualified,0,0
+2025,2,2025-03-23,Chinese Grand Prix,China,Shanghai,conventional,GAS,10,Alpine F1 Team,16.0,20.0,0.0,Disqualified,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,VER,3,Red Bull,1.0,1.0,25.0,Finished,1,1
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,NOR,1,McLaren,2.0,2.0,18.0,Finished,0,1
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,PIA,81,McLaren,3.0,3.0,15.0,Finished,0,1
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,LEC,16,Ferrari,4.0,4.0,12.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,RUS,63,Mercedes,5.0,5.0,10.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,ANT,12,Mercedes,6.0,6.0,8.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,HAM,44,Ferrari,8.0,7.0,6.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,HAD,6,RB F1 Team,7.0,8.0,4.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,ALB,23,Williams,9.0,9.0,2.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,BEA,87,Haas F1 Team,10.0,10.0,1.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,ALO,14,Aston Martin,12.0,11.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,TSU,22,Red Bull,14.0,12.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,GAS,10,Alpine F1 Team,11.0,13.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,SAI,55,Williams,15.0,14.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,DOO,7,Alpine F1 Team,19.0,15.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,HUL,27,Sauber,16.0,16.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,LAW,30,RB F1 Team,13.0,17.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,OCO,31,Haas F1 Team,18.0,18.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,BOR,5,Sauber,17.0,19.0,0.0,Finished,0,0
+2025,3,2025-04-06,Japanese Grand Prix,Japan,Suzuka,conventional,STR,18,Aston Martin,20.0,20.0,0.0,Lapped,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,PIA,81,McLaren,1.0,1.0,25.0,Finished,1,1
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,RUS,63,Mercedes,3.0,2.0,18.0,Finished,0,1
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,NOR,1,McLaren,6.0,3.0,15.0,Finished,0,1
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LEC,16,Ferrari,2.0,4.0,12.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAM,44,Ferrari,9.0,5.0,10.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,VER,3,Red Bull,7.0,6.0,8.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,GAS,10,Alpine F1 Team,4.0,7.0,6.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,OCO,31,Haas F1 Team,14.0,8.0,4.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,TSU,22,Red Bull,10.0,9.0,2.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,BEA,87,Haas F1 Team,20.0,10.0,1.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ANT,12,Mercedes,5.0,11.0,0.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALB,23,Williams,15.0,12.0,0.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HAD,6,RB F1 Team,12.0,13.0,0.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,DOO,7,Alpine F1 Team,11.0,14.0,0.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,ALO,14,Aston Martin,13.0,15.0,0.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,LAW,30,RB F1 Team,17.0,16.0,0.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,STR,18,Aston Martin,19.0,17.0,0.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,BOR,5,Sauber,18.0,18.0,0.0,Finished,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,SAI,55,Williams,8.0,19.0,0.0,Retired,0,0
+2025,4,2025-04-13,Bahrain Grand Prix,Bahrain,Sakhir,conventional,HUL,27,Sauber,16.0,20.0,0.0,Disqualified,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,PIA,81,McLaren,2.0,1.0,25.0,Finished,1,1
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,VER,3,Red Bull,1.0,2.0,18.0,Finished,0,1
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,LEC,16,Ferrari,4.0,3.0,15.0,Finished,0,1
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,NOR,1,McLaren,10.0,4.0,12.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,RUS,63,Mercedes,3.0,5.0,10.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ANT,12,Mercedes,5.0,6.0,8.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HAM,44,Ferrari,7.0,7.0,6.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,SAI,55,Williams,6.0,8.0,4.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ALB,23,Williams,11.0,9.0,2.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HAD,6,RB F1 Team,14.0,10.0,1.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,ALO,14,Aston Martin,13.0,11.0,0.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,LAW,30,RB F1 Team,12.0,12.0,0.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,BEA,87,Haas F1 Team,15.0,13.0,0.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,OCO,31,Haas F1 Team,19.0,14.0,0.0,Finished,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,HUL,27,Sauber,18.0,15.0,0.0,Lapped,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,STR,18,Aston Martin,16.0,16.0,0.0,Lapped,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,DOO,7,Alpine F1 Team,17.0,17.0,0.0,Lapped,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,BOR,5,Sauber,20.0,18.0,0.0,Lapped,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,TSU,22,Red Bull,8.0,19.0,0.0,Retired,0,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,conventional,GAS,10,Alpine F1 Team,9.0,20.0,0.0,Retired,0,0

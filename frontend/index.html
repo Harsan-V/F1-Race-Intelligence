@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 Race Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Apex Race Intelligence home">
+      <span class="brand-mark">F1</span>
+      <span>F1 Race Intelligence</span>
+    </a>
+    <nav class="nav-links" aria-label="Primary navigation">
+      <a href="#predict">Predict</a>
+      <a href="#drivers">Drivers</a>
+      <a href="#explain">Explainability</a>
+      <a href="#assistant">Assistant</a>
+    </nav>
+  </header>
+
+  <main id="home">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Formula 1 race prediction desk</p>
+        <h1>Choose a Grand Prix. Get the winner, lap pace, strategy, summary, and AI reasoning.</h1>
+        <p>
+          Select a year and race to generate a professional race briefing with predicted winner,
+          driver lap-time outlook, driver performance classes, pit-stop recommendation, race summary,
+          and explainable model signals.
+        </p>
+      </div>
+
+      <form class="prediction-card" id="raceForm">
+        <div class="card-title">
+          <span class="eyebrow">Race selector</span>
+          <h2>Prediction input</h2>
+        </div>
+        <label for="yearSelect">Year</label>
+        <select id="yearSelect"></select>
+
+        <label for="grandPrixSelect">Grand Prix</label>
+        <select id="grandPrixSelect"></select>
+
+        <button type="submit">Predict Race</button>
+        <p class="form-note">Only year and Grand Prix are required.</p>
+      </form>
+    </section>
+
+    <section id="predict" class="section race-brief">
+      <div class="brief-head">
+        <div>
+          <p class="eyebrow">Selected race</p>
+          <h2 id="raceTitle">Pick a race to begin</h2>
+        </div>
+        <span id="statusBadge">Ready</span>
+      </div>
+
+      <div class="score-grid">
+        <article class="score-card winner-card">
+          <span>Predicted Winner</span>
+          <strong id="winnerName">--</strong>
+          <p id="winnerMeta">Waiting for race selection.</p>
+        </article>
+        <article class="score-card">
+          <span>Win Confidence</span>
+          <strong id="winnerConfidence">--</strong>
+          <p>Normalized race-winning probability.</p>
+        </article>
+        <article class="score-card">
+          <span>Fastest Average Pace</span>
+          <strong id="fastestLapDriver">--</strong>
+          <p id="fastestLapMeta">Lap outlook appears when available.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section panels">
+      <article class="panel wide">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Race winner forecast</p>
+            <h2>Predicted finishing order</h2>
+          </div>
+        </div>
+        <div id="winnerTable" class="table-shell empty-state">Select a race and run prediction.</div>
+      </article>
+
+      <article class="panel wide">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Lap-time forecast</p>
+            <h2>Predicted lap pace for drivers</h2>
+          </div>
+        </div>
+        <div id="lapTable" class="table-shell empty-state">Lap-time data will appear when available for the selected race.</div>
+      </article>
+    </section>
+
+    <section id="drivers" class="section panels two-column">
+      <article class="panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Driver performance</p>
+            <h2>Classification for this race</h2>
+          </div>
+        </div>
+        <div id="driverClassTable" class="table-shell empty-state">Driver classifications will appear after prediction.</div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Pit-stop strategy</p>
+            <h2>Recommended pit windows</h2>
+          </div>
+        </div>
+        <div id="pitTable" class="table-shell empty-state">Pit-stop recommendations will appear when available.</div>
+      </article>
+    </section>
+
+    <section class="section panels two-column">
+      <article class="panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Race summary generator</p>
+            <h2>Generated race briefing</h2>
+          </div>
+        </div>
+        <div id="summaryText" class="summary-box empty-state">Select a race to generate a summary.</div>
+      </article>
+
+      <article id="explain" class="panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">SHAP and feature importance</p>
+            <h2>Why the AI predicted this winner</h2>
+          </div>
+        </div>
+        <div id="reasonText" class="summary-box empty-state">Feature reasoning will appear after prediction.</div>
+        <div id="featureChart" class="bar-chart"></div>
+      </article>
+    </section>
+
+    <section id="assistant" class="section assistant-section">
+      <div class="panel assistant-panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">F1 chatbot</p>
+            <h2>Ask any Formula 1 question</h2>
+          </div>
+        </div>
+        <form class="chat-form" id="chatForm">
+          <input id="chatQuestion" type="text" value="Why did Max Verstappen win Monaco 2023?" aria-label="F1 question">
+          <button type="submit">Ask</button>
+        </form>
+        <div id="chatAnswer" class="summary-box empty-state">The answer will appear here.</div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>F1 Race Intelligence</span>
+    <span>Winner prediction • lap pace • strategy • explainability</span>
+  </footer>
+
+  <script>
+    const API_BASE_URL = "http://127.0.0.1:8000";
+    const FALLBACK_RACES_2026 = [
+      { season: 2026, round: 1, race_name: "Australian Grand Prix" },
+      { season: 2026, round: 2, race_name: "Chinese Grand Prix" },
+      { season: 2026, round: 3, race_name: "Japanese Grand Prix" },
+      { season: 2026, round: 4, race_name: "Miami Grand Prix" },
+      { season: 2026, round: 5, race_name: "Canadian Grand Prix" },
+      { season: 2026, round: 6, race_name: "Monaco Grand Prix" },
+      { season: 2026, round: 7, race_name: "Barcelona-Catalunya Grand Prix" },
+      { season: 2026, round: 8, race_name: "Austrian Grand Prix" },
+      { season: 2026, round: 9, race_name: "British Grand Prix" },
+      { season: 2026, round: 10, race_name: "Belgian Grand Prix" },
+      { season: 2026, round: 11, race_name: "Hungarian Grand Prix" },
+      { season: 2026, round: 12, race_name: "Dutch Grand Prix" },
+      { season: 2026, round: 13, race_name: "Italian Grand Prix" },
+      { season: 2026, round: 14, race_name: "Spanish Grand Prix" },
+      { season: 2026, round: 15, race_name: "Azerbaijan Grand Prix" },
+      { season: 2026, round: 16, race_name: "Singapore Grand Prix" },
+      { season: 2026, round: 17, race_name: "United States Grand Prix" },
+      { season: 2026, round: 18, race_name: "Mexico City Grand Prix" },
+      { season: 2026, round: 19, race_name: "Sao Paulo Grand Prix" },
+      { season: 2026, round: 20, race_name: "Las Vegas Grand Prix" },
+      { season: 2026, round: 21, race_name: "Qatar Grand Prix" },
+      { season: 2026, round: 22, race_name: "Abu Dhabi Grand Prix" }
+    ];
+
+    const yearSelect = document.querySelector("#yearSelect");
+    const grandPrixSelect = document.querySelector("#grandPrixSelect");
+    const statusBadge = document.querySelector("#statusBadge");
+    let races = FALLBACK_RACES_2026;
+
+    function unique(values) {
+      return [...new Set(values)];
+    }
+
+    function formatTime(seconds) {
+      const minutes = Math.floor(seconds / 60);
+      const rest = (seconds - minutes * 60).toFixed(3).padStart(6, "0");
+      return `${minutes}:${rest}`;
+    }
+
+    function selectedRace() {
+      const season = Number(yearSelect.value);
+      const raceName = grandPrixSelect.value;
+      return races.find((race) => race.season === season && race.race_name === raceName);
+    }
+
+    function setStatus(text) {
+      statusBadge.textContent = text;
+    }
+
+    async function postJson(path, payload) {
+      const response = await fetch(`${API_BASE_URL}${path}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.detail || data.message || `HTTP ${response.status}`);
+      return data;
+    }
+
+    async function getJson(path) {
+      const response = await fetch(`${API_BASE_URL}${path}`);
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.detail || data.message || `HTTP ${response.status}`);
+      return data;
+    }
+
+    async function loadRaceList() {
+      try {
+        const data = await getJson("/module1/races");
+        races = data.races || FALLBACK_RACES_2026;
+      } catch (error) {
+        races = FALLBACK_RACES_2026;
+      }
+      fillYears();
+    }
+
+    function fillYears() {
+      yearSelect.innerHTML = unique(races.map((race) => race.season)).sort((a, b) => b - a)
+        .map((year) => `<option value="${year}">${year}</option>`)
+        .join("");
+      yearSelect.value = races.some((race) => race.season === 2026) ? "2026" : yearSelect.value;
+      fillRaces();
+    }
+
+    function fillRaces() {
+      const season = Number(yearSelect.value);
+      grandPrixSelect.innerHTML = races
+        .filter((race) => race.season === season)
+        .sort((a, b) => a.round - b.round)
+        .map((race) => `<option value="${race.race_name}">Round ${race.round} - ${race.race_name}</option>`)
+        .join("");
+      updateRaceTitle();
+    }
+
+    function updateRaceTitle() {
+      const race = selectedRace();
+      document.querySelector("#raceTitle").textContent = race
+        ? `${race.season} ${race.race_name}`
+        : "Pick a race to begin";
+    }
+
+    function empty(id, message) {
+      document.querySelector(id).className = "table-shell empty-state";
+      document.querySelector(id).innerHTML = message;
+    }
+
+    function renderTable(id, columns, rows) {
+      const target = document.querySelector(id);
+      if (!rows.length) {
+        empty(id, "No data available for this race.");
+        return;
+      }
+      target.className = "table-shell";
+      target.innerHTML = `
+        <table>
+          <thead><tr>${columns.map((column) => `<th>${column.label}</th>`).join("")}</tr></thead>
+          <tbody>
+            ${rows.map((row) => `
+              <tr>${columns.map((column) => `<td>${column.render ? column.render(row) : row[column.key] ?? "--"}</td>`).join("")}</tr>
+            `).join("")}
+          </tbody>
+        </table>`;
+    }
+
+    function renderWinner(data) {
+      const rows = data.predictions || [];
+      const winner = rows[0];
+      document.querySelector("#winnerName").textContent = winner ? winner.driver : "--";
+      document.querySelector("#winnerConfidence").textContent = winner ? `${(winner.winner_probability * 100).toFixed(1)}%` : "--";
+      document.querySelector("#winnerMeta").textContent = winner ? `${winner.team} • grid P${winner.grid_position}` : "No prediction found.";
+      renderTable("#winnerTable", [
+        { label: "Finish", render: (row) => `P${row.rank}` },
+        { label: "Driver", key: "driver" },
+        { label: "Team", key: "team" },
+        { label: "Grid", render: (row) => `P${row.grid_position}` },
+        { label: "Win Probability", render: (row) => `${(row.winner_probability * 100).toFixed(2)}%` }
+      ], rows);
+      return rows;
+    }
+
+    async function renderLapTimes(race) {
+      try {
+        const data = await postJson("/module2/race-pace", { season: race.season, round: race.round });
+        const rows = data.predictions || [];
+        const fastest = rows[0];
+        document.querySelector("#fastestLapDriver").textContent = fastest ? fastest.driver : "--";
+        document.querySelector("#fastestLapMeta").textContent = fastest
+          ? `${fastest.predicted_lap_time} average predicted lap`
+          : "Lap-time prediction is unavailable.";
+        renderTable("#lapTable", [
+          { label: "Driver", key: "driver" },
+          { label: "Team", key: "team" },
+          { label: "Avg Predicted Lap", render: (row) => row.predicted_lap_time || formatTime(row.predicted_lap_time_seconds) },
+          { label: "Best Predicted Lap", render: (row) => row.best_predicted_lap || formatTime(row.best_predicted_lap_seconds) }
+        ], rows);
+      } catch (error) {
+        document.querySelector("#fastestLapDriver").textContent = "--";
+        document.querySelector("#fastestLapMeta").textContent = "Lap-time projection is available for 2026 races.";
+        empty("#lapTable", "Lap-time projection is available for 2026 races.");
+      }
+    }
+
+    async function renderDriverClasses(race, winnerRows) {
+      try {
+        const data = await postJson("/module3/race", { season: race.season, round: race.round });
+        const selectedDrivers = new Set(winnerRows.map((row) => row.driver));
+        const rows = (data.predictions || [])
+          .filter((row) => !selectedDrivers.size || selectedDrivers.has(row.driver))
+          .sort((a, b) => (b.performance_score || 0) - (a.performance_score || 0));
+        renderTable("#driverClassTable", [
+          { label: "Driver", key: "driver" },
+          { label: "Team", key: "team" },
+          { label: "Class", render: (row) => row.predicted_class || row.driver_class || "--" },
+          { label: "Score", render: (row) => row.performance_score ? Number(row.performance_score).toFixed(2) : "--" }
+        ], rows);
+      } catch (error) {
+        empty("#driverClassTable", "Driver classification is unavailable for this race.");
+      }
+    }
+
+    async function renderPitStrategy(race) {
+      try {
+        const data = await postJson("/module4/recommend", { season: race.season, round: race.round });
+        renderTable("#pitTable", [
+          { label: "Driver", key: "driver" },
+          { label: "Team", key: "team" },
+          { label: "Pit Window", render: (row) => `L${row.pit_window_start}-${row.pit_window_end}` },
+          { label: "Suggested Lap", render: (row) => `L${row.suggested_pit_lap}` },
+          { label: "Projected Finish", render: (row) => `P${row.predicted_finishing_position}` }
+        ], data.recommendations || []);
+        return data.recommendations || [];
+      } catch (error) {
+        empty("#pitTable", "Pit-stop recommendations are unavailable for this race.");
+        return [];
+      }
+    }
+
+    async function renderSummary(race, winnerRows, pitRows) {
+      try {
+        const data = await postJson("/module6/summary", { season: race.season, round: race.round, use_groq: true });
+        document.querySelector("#summaryText").className = "summary-box";
+        document.querySelector("#summaryText").textContent = data.summary;
+      } catch (error) {
+        const leader = winnerRows[0];
+        const challenger = winnerRows[1];
+        const strategy = pitRows[0];
+        document.querySelector("#summaryText").className = "summary-box";
+        document.querySelector("#summaryText").textContent =
+          `${race.season} ${race.race_name} projected briefing:\n\n` +
+          `${leader ? `${leader.driver} is the model's leading winner pick for ${leader.team} with ${(leader.winner_probability * 100).toFixed(1)}% confidence.` : "Winner prediction is unavailable."}\n` +
+          `${challenger ? `${challenger.driver} is the closest challenger at ${(challenger.winner_probability * 100).toFixed(1)}%.` : ""}\n` +
+          `${strategy ? `Strategy focus: ${strategy.driver} has a recommended pit window from lap ${strategy.pit_window_start} to ${strategy.pit_window_end}.` : "No pit strategy exists for this race."}`;
+      }
+    }
+
+    async function renderExplainability(race, winnerRows) {
+      try {
+        const data = await postJson("/module7/explain", { season: race.season, round: race.round, top_n_features: 10 });
+        const features = data.global_feature_importance || [];
+        const winner = winnerRows[0];
+        document.querySelector("#reasonText").className = "summary-box";
+        document.querySelector("#reasonText").textContent = winner
+          ? `${winner.driver} is predicted ahead because the model gives strongest weight to ${features.slice(0, 3).map((item) => item.feature.replaceAll("__", " ").replaceAll("_", " ")).join(", ")}. The graph below shows the model's feature-importance explanation.`
+          : "Winner prediction is unavailable.";
+        renderFeatureChart(features);
+      } catch (error) {
+        document.querySelector("#reasonText").className = "summary-box empty-state";
+        document.querySelector("#reasonText").textContent = "Explainability is not available for this race.";
+        document.querySelector("#featureChart").innerHTML = "";
+      }
+    }
+
+    function renderFeatureChart(features) {
+      const max = Math.max(...features.map((item) => item.importance), 0.001);
+      document.querySelector("#featureChart").innerHTML = features.map((item) => {
+        const label = item.feature.replaceAll("__", " ").replaceAll("_", " ");
+        const width = Math.max(4, (item.importance / max) * 100);
+        return `
+          <div class="bar-row">
+            <span>${label}</span>
+            <div><b style="width:${width}%"></b></div>
+            <em>${Number(item.importance).toFixed(3)}</em>
+          </div>`;
+      }).join("");
+    }
+
+    async function runPrediction() {
+      const race = selectedRace();
+      if (!race) return;
+      setStatus("Running");
+      updateRaceTitle();
+      try {
+        const winnerData = await postJson("/module1/predict", { season: race.season, round: race.round, artifact: "better" });
+        const winnerRows = renderWinner(winnerData);
+        await renderLapTimes(race);
+        await renderDriverClasses(race, winnerRows);
+        const pitRows = await renderPitStrategy(race);
+        await renderSummary(race, winnerRows, pitRows);
+        await renderExplainability(race, winnerRows);
+        setStatus("Complete");
+      } catch (error) {
+        setStatus("Unavailable");
+        document.querySelector("#winnerName").textContent = "--";
+        document.querySelector("#winnerConfidence").textContent = "--";
+        document.querySelector("#winnerMeta").textContent = "Start the local service and try again.";
+        empty("#winnerTable", error.message);
+      }
+    }
+
+    document.querySelector("#raceForm").addEventListener("submit", (event) => {
+      event.preventDefault();
+      runPrediction();
+    });
+
+    document.querySelector("#chatForm").addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const target = document.querySelector("#chatAnswer");
+      target.className = "summary-box";
+      target.textContent = "Thinking...";
+      try {
+        const data = await postJson("/chatbot/ask", {
+          question: document.querySelector("#chatQuestion").value,
+          model: "llama-3.1-8b-instant"
+        });
+        target.textContent = data.answer || data.response || JSON.stringify(data, null, 2);
+      } catch (error) {
+        target.className = "summary-box empty-state";
+        target.textContent = "The assistant is unavailable. Check the chatbot setup and API key.";
+      }
+    });
+
+    yearSelect.addEventListener("change", fillRaces);
+    grandPrixSelect.addEventListener("change", updateRaceTitle);
+    loadRaceList();
+  </script>
+</body>
+</html>

@@ -1,0 +1,401 @@
+season,round,race_name,race_date,circuit,driver,team,grid_position,finish_position,winner
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,LEC,Ferrari,1,1,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,SAI,Ferrari,3,2,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,HAM,Mercedes,5,3,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,RUS,Mercedes,9,4,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,MAG,Haas F1 Team,7,5,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,BOT,Alfa Romeo,6,6,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,OCO,Alpine F1 Team,11,7,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,TSU,AlphaTauri,16,8,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,ALO,Alpine F1 Team,8,9,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,ZHO,Alfa Romeo,15,10,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,MSC,Haas F1 Team,12,11,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,STR,Aston Martin,19,12,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,ALB,Williams,14,13,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,RIC,McLaren,18,14,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,NOR,McLaren,13,15,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,LAT,Williams,20,16,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,HUL,Aston Martin,17,17,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,PER,Red Bull,4,18,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,VER,Red Bull,2,19,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,GAS,AlphaTauri,10,20,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,VER,Red Bull,4,1,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,LEC,Ferrari,2,2,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,SAI,Ferrari,3,3,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,PER,Red Bull,1,4,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,RUS,Mercedes,6,5,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,OCO,Alpine F1 Team,5,6,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,NOR,McLaren,11,7,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,GAS,AlphaTauri,9,8,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,MAG,Haas F1 Team,10,9,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,HAM,Mercedes,15,10,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,ZHO,Alfa Romeo,12,11,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,HUL,Aston Martin,17,12,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,STR,Aston Martin,13,13,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,ALB,Williams,16,14,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,BOT,Alfa Romeo,8,15,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,ALO,Alpine F1 Team,7,16,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,RIC,McLaren,14,17,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,LAT,Williams,18,18,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,TSU,AlphaTauri,19,19,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,MSC,Haas F1 Team,0,20,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,LEC,Ferrari,1,1,1
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,PER,Red Bull,3,2,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,RUS,Mercedes,6,3,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,HAM,Mercedes,5,4,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,NOR,McLaren,4,5,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,RIC,McLaren,7,6,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,OCO,Alpine F1 Team,8,7,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,BOT,Alfa Romeo,12,8,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,GAS,AlphaTauri,11,9,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,ALB,Williams,20,10,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,ZHO,Alfa Romeo,14,11,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,STR,Aston Martin,19,12,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,MSC,Haas F1 Team,15,13,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,MAG,Haas F1 Team,16,14,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,TSU,AlphaTauri,13,15,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,LAT,Williams,18,16,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,ALO,Alpine F1 Team,10,17,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,VER,Red Bull,2,18,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,VET,Aston Martin,17,19,0
+2022,3,Australian Grand Prix,2022-04-10,Albert Park Grand Prix Circuit,SAI,Ferrari,9,20,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,VER,Red Bull,1,1,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,PER,Red Bull,3,2,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,NOR,McLaren,5,3,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,RUS,Mercedes,11,4,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,BOT,Alfa Romeo,7,5,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,LEC,Ferrari,2,6,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,TSU,AlphaTauri,12,7,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,VET,Aston Martin,13,8,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,MAG,Haas F1 Team,8,9,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,STR,Aston Martin,15,10,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,ALB,Williams,18,11,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,GAS,AlphaTauri,17,12,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,HAM,Mercedes,14,13,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,OCO,Alpine F1 Team,16,14,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,ZHO,Alfa Romeo,0,15,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,LAT,Williams,19,16,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,MSC,Haas F1 Team,10,17,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,RIC,McLaren,6,18,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,ALO,Alpine F1 Team,9,19,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Autodromo Enzo e Dino Ferrari,SAI,Ferrari,4,20,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,VER,Red Bull,3,1,1
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,LEC,Ferrari,1,2,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,SAI,Ferrari,2,3,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,PER,Red Bull,4,4,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,RUS,Mercedes,12,5,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,HAM,Mercedes,6,6,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,BOT,Alfa Romeo,5,7,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,OCO,Alpine F1 Team,20,8,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,ALB,Williams,18,9,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,STR,Aston Martin,0,10,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,ALO,Alpine F1 Team,11,11,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,TSU,AlphaTauri,9,12,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,RIC,McLaren,14,13,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,LAT,Williams,19,14,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,MSC,Haas F1 Team,15,15,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,MAG,Haas F1 Team,16,16,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,VET,Aston Martin,0,17,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,GAS,AlphaTauri,7,18,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,NOR,McLaren,8,19,0
+2022,5,Miami Grand Prix,2022-05-08,Miami International Autodrome,ZHO,Alfa Romeo,17,20,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,VER,Red Bull,1,1,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,PER,Red Bull,2,2,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,ALO,Aston Martin,5,3,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,SAI,Ferrari,4,4,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,HAM,Mercedes,7,5,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,STR,Aston Martin,8,6,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,RUS,Mercedes,6,7,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,BOT,Alfa Romeo,12,8,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,GAS,Alpine F1 Team,20,9,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,ALB,Williams,15,10,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,TSU,AlphaTauri,14,11,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,SAR,Williams,16,12,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,MAG,Haas F1 Team,17,13,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,DEV,AlphaTauri,19,14,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,HUL,Haas F1 Team,10,15,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,ZHO,Alfa Romeo,13,16,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,NOR,McLaren,11,17,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,OCO,Alpine F1 Team,9,18,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,LEC,Ferrari,3,19,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,PIA,McLaren,18,20,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,PER,Red Bull,1,1,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,VER,Red Bull,15,2,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,ALO,Aston Martin,2,3,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,RUS,Mercedes,3,4,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,HAM,Mercedes,7,5,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,SAI,Ferrari,4,6,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,LEC,Ferrari,12,7,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,OCO,Alpine F1 Team,6,8,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,GAS,Alpine F1 Team,9,9,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,MAG,Haas F1 Team,13,10,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,TSU,AlphaTauri,16,11,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,HUL,Haas F1 Team,10,12,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,ZHO,Alfa Romeo,11,13,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,DEV,AlphaTauri,18,14,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,PIA,McLaren,8,15,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,SAR,Williams,20,16,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,NOR,McLaren,19,17,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,BOT,Alfa Romeo,14,18,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,ALB,Williams,17,19,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,STR,Aston Martin,5,20,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,VER,Red Bull,1,1,1
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,HAM,Mercedes,3,2,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,ALO,Aston Martin,4,3,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,STR,Aston Martin,6,4,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,PER,Red Bull,20,5,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,NOR,McLaren,13,6,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,HUL,Haas F1 Team,10,7,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,PIA,McLaren,16,8,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,ZHO,Alfa Romeo,17,9,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,TSU,AlphaTauri,12,10,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,BOT,Alfa Romeo,19,11,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,SAI,Ferrari,5,12,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,GAS,Alpine F1 Team,9,13,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,OCO,Alpine F1 Team,11,14,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,DEV,AlphaTauri,15,15,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,SAR,Williams,18,16,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,MAG,Haas F1 Team,14,17,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,RUS,Mercedes,2,18,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,ALB,Williams,8,19,0
+2023,3,Australian Grand Prix,2023-04-02,Albert Park Grand Prix Circuit,LEC,Ferrari,7,20,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,PER,Red Bull,3,1,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,VER,Red Bull,2,2,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,LEC,Ferrari,1,3,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,ALO,Aston Martin,6,4,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,SAI,Ferrari,4,5,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,HAM,Mercedes,5,6,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,STR,Aston Martin,9,7,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,RUS,Mercedes,11,8,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,NOR,McLaren,7,9,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,TSU,AlphaTauri,8,10,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,PIA,McLaren,10,11,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,ALB,Williams,12,12,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,MAG,Haas F1 Team,16,13,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,GAS,Alpine F1 Team,17,14,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,OCO,Alpine F1 Team,19,15,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,SAR,Williams,14,16,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,HUL,Haas F1 Team,20,17,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,BOT,Alfa Romeo,13,18,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,ZHO,Alfa Romeo,15,19,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Baku City Circuit,DEV,AlphaTauri,18,20,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,VER,Red Bull,9,1,1
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,PER,Red Bull,1,2,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,ALO,Aston Martin,2,3,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,RUS,Mercedes,6,4,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,SAI,Ferrari,3,5,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,HAM,Mercedes,13,6,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,LEC,Ferrari,7,7,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,GAS,Alpine F1 Team,5,8,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,OCO,Alpine F1 Team,8,9,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,MAG,Haas F1 Team,4,10,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,TSU,AlphaTauri,17,11,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,STR,Aston Martin,18,12,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,BOT,Alfa Romeo,10,13,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,ALB,Williams,11,14,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,HUL,Haas F1 Team,12,15,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,ZHO,Alfa Romeo,14,16,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,NOR,McLaren,16,17,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,DEV,AlphaTauri,15,18,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,PIA,McLaren,19,19,0
+2023,5,Miami Grand Prix,2023-05-07,Miami International Autodrome,SAR,Williams,20,20,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,VER,Red Bull,1,1,1
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,PER,Red Bull,5,2,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,SAI,Ferrari,4,3,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,LEC,Ferrari,2,4,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,RUS,Mercedes,3,5,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,NOR,McLaren,7,6,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,HAM,Mercedes,9,7,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,PIA,McLaren,8,8,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,ALO,Aston Martin,6,9,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,STR,Aston Martin,12,10,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,ZHO,Sauber,17,11,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,MAG,Haas F1 Team,15,12,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,RIC,RB F1 Team,14,13,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,TSU,RB F1 Team,11,14,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,ALB,Williams,13,15,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,HUL,Haas F1 Team,10,16,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,OCO,Alpine F1 Team,19,17,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,GAS,Alpine F1 Team,20,18,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,BOT,Sauber,16,19,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,SAR,Williams,18,20,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,VER,Red Bull,1,1,1
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,PER,Red Bull,3,2,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,LEC,Ferrari,2,3,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,PIA,McLaren,5,4,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,ALO,Aston Martin,4,5,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,RUS,Mercedes,7,6,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,BEA,Ferrari,11,7,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,NOR,McLaren,6,8,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,HAM,Mercedes,8,9,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,HUL,Haas F1 Team,15,10,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,ALB,Williams,12,11,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,MAG,Haas F1 Team,13,12,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,OCO,Alpine F1 Team,17,13,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,SAR,Williams,19,14,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,TSU,RB F1 Team,9,15,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,RIC,RB F1 Team,14,16,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,BOT,Sauber,16,17,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,ZHO,Sauber,20,18,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,STR,Aston Martin,10,19,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,GAS,Alpine F1 Team,18,20,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,SAI,Ferrari,2,1,1
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,LEC,Ferrari,4,2,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,NOR,McLaren,3,3,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,PIA,McLaren,5,4,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,PER,Red Bull,6,5,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,STR,Aston Martin,9,6,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,TSU,RB F1 Team,8,7,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,ALO,Aston Martin,10,8,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,HUL,Haas F1 Team,16,9,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,MAG,Haas F1 Team,14,10,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,ALB,Williams,12,11,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,RIC,RB F1 Team,18,12,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,GAS,Alpine F1 Team,17,13,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,BOT,Sauber,13,14,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,ZHO,Sauber,19,15,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,OCO,Alpine F1 Team,15,16,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,RUS,Mercedes,7,17,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,HAM,Mercedes,11,18,0
+2024,3,Australian Grand Prix,2024-03-24,Albert Park Grand Prix Circuit,VER,Red Bull,1,19,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,VER,Red Bull,1,1,1
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,PER,Red Bull,2,2,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,SAI,Ferrari,4,3,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,LEC,Ferrari,8,4,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,NOR,McLaren,3,5,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,ALO,Aston Martin,5,6,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,RUS,Mercedes,9,7,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,PIA,McLaren,6,8,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,HAM,Mercedes,7,9,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,TSU,RB F1 Team,10,10,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,HUL,Haas F1 Team,12,11,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,STR,Aston Martin,16,12,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,MAG,Haas F1 Team,18,13,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,BOT,Sauber,13,14,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,OCO,Alpine F1 Team,15,15,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,GAS,Alpine F1 Team,17,16,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,SAR,Williams,19,17,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,ZHO,Sauber,20,18,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,RIC,RB F1 Team,11,19,0
+2024,4,Japanese Grand Prix,2024-04-07,Suzuka Circuit,ALB,Williams,14,20,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,VER,Red Bull,1,1,1
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,NOR,McLaren,4,2,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,PER,Red Bull,2,3,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,LEC,Ferrari,6,4,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,SAI,Ferrari,7,5,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,RUS,Mercedes,8,6,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,ALO,Aston Martin,3,7,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,PIA,McLaren,5,8,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,HAM,Mercedes,18,9,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,HUL,Haas F1 Team,9,10,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,OCO,Alpine F1 Team,13,11,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,ALB,Williams,14,12,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,GAS,Alpine F1 Team,15,13,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,ZHO,Sauber,16,14,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,STR,Aston Martin,11,15,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,MAG,Haas F1 Team,17,16,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,SAR,Williams,20,17,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,RIC,RB F1 Team,12,18,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,TSU,RB F1 Team,19,19,0
+2024,5,Chinese Grand Prix,2024-04-21,Shanghai International Circuit,BOT,Sauber,10,20,0
+2024,6,Miami Grand Prix,2024-05-05,Miami International Autodrome,NOR,McLaren,5,1,1
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,NOR,McLaren,1,1,1
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,VER,Red Bull,3,2,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,RUS,Mercedes,4,3,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,ANT,Mercedes,16,4,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,ALB,Williams,6,5,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,STR,Aston Martin,13,6,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,HUL,Sauber,17,7,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,LEC,Ferrari,7,8,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,PIA,McLaren,2,9,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,HAM,Ferrari,8,10,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,GAS,Alpine F1 Team,9,11,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,TSU,RB F1 Team,5,12,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,OCO,Haas F1 Team,19,13,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,BEA,Haas F1 Team,20,14,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,LAW,Red Bull,18,15,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,BOR,Sauber,15,16,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,ALO,Aston Martin,12,17,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,SAI,Williams,10,18,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,DOO,Alpine F1 Team,14,19,0
+2025,1,Australian Grand Prix,2025-03-16,Albert Park Grand Prix Circuit,HAD,RB F1 Team,11,20,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,PIA,McLaren,1,1,1
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,NOR,McLaren,3,2,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,RUS,Mercedes,2,3,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,VER,Red Bull,4,4,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,OCO,Haas F1 Team,11,5,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,ANT,Mercedes,8,6,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,ALB,Williams,10,7,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,BEA,Haas F1 Team,17,8,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,STR,Aston Martin,14,9,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,SAI,Williams,15,10,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,HAD,RB F1 Team,7,11,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,LAW,Red Bull,20,12,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,DOO,Alpine F1 Team,18,13,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,BOR,Sauber,19,14,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,HUL,Sauber,12,15,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,TSU,RB F1 Team,9,16,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,ALO,Aston Martin,13,17,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,LEC,Ferrari,6,18,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,HAM,Ferrari,5,19,0
+2025,2,Chinese Grand Prix,2025-03-23,Shanghai International Circuit,GAS,Alpine F1 Team,16,20,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,VER,Red Bull,1,1,1
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,NOR,McLaren,2,2,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,PIA,McLaren,3,3,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,LEC,Ferrari,4,4,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,RUS,Mercedes,5,5,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,ANT,Mercedes,6,6,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,HAM,Ferrari,8,7,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,HAD,RB F1 Team,7,8,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,ALB,Williams,9,9,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,BEA,Haas F1 Team,10,10,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,ALO,Aston Martin,12,11,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,TSU,Red Bull,14,12,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,GAS,Alpine F1 Team,11,13,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,SAI,Williams,15,14,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,DOO,Alpine F1 Team,19,15,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,HUL,Sauber,16,16,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,LAW,RB F1 Team,13,17,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,OCO,Haas F1 Team,18,18,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,BOR,Sauber,17,19,0
+2025,3,Japanese Grand Prix,2025-04-06,Suzuka Circuit,STR,Aston Martin,20,20,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,PIA,McLaren,1,1,1
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,RUS,Mercedes,3,2,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,NOR,McLaren,6,3,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,LEC,Ferrari,2,4,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,HAM,Ferrari,9,5,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,VER,Red Bull,7,6,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,GAS,Alpine F1 Team,4,7,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,OCO,Haas F1 Team,14,8,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,TSU,Red Bull,10,9,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,BEA,Haas F1 Team,20,10,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,ANT,Mercedes,5,11,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,ALB,Williams,15,12,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,HAD,RB F1 Team,12,13,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,DOO,Alpine F1 Team,11,14,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,ALO,Aston Martin,13,15,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,LAW,RB F1 Team,17,16,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,STR,Aston Martin,19,17,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,BOR,Sauber,18,18,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,SAI,Williams,8,19,0
+2025,4,Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,HUL,Sauber,16,20,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,PIA,McLaren,2,1,1
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,VER,Red Bull,1,2,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,LEC,Ferrari,4,3,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,NOR,McLaren,10,4,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,RUS,Mercedes,3,5,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,ANT,Mercedes,5,6,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,HAM,Ferrari,7,7,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,SAI,Williams,6,8,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,ALB,Williams,11,9,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,HAD,RB F1 Team,14,10,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,ALO,Aston Martin,13,11,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,LAW,RB F1 Team,12,12,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,BEA,Haas F1 Team,15,13,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,OCO,Haas F1 Team,19,14,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,HUL,Sauber,18,15,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,STR,Aston Martin,16,16,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,DOO,Alpine F1 Team,17,17,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,BOR,Sauber,20,18,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,TSU,Red Bull,8,19,0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,GAS,Alpine F1 Team,9,20,0

@@ -1,0 +1,8 @@
+{
+  "best_model": "Random Forest",
+  "test_season": 2025,
+  "accuracy": 0.9,
+  "macro_f1": 0.9142857142857144,
+  "train_rows": 143,
+  "test_rows": 20
+}
